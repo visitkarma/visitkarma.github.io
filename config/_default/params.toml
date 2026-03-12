@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "A city-dwelling family that enjoys luxury travel and outdoor adventures"
     avatar   = "img/avatar.png"
 
 [article]
