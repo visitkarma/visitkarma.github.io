@@ -1,7 +1,8 @@
 # Change baseurl before deploy
-baseurl      = "https://starter.stack.cai.im/"
+baseurl      = "https://visitkarma.github.io/"
 languageCode = "en-us"
-title        = "Hugo Theme Stack Starter"
+title        = "Visit Karma"
+description  = "A city-dwelling family that enjoys luxury travel and outdoor adventures"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
@@ -12,7 +13,7 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
-disqusShortname = "hugo-theme-stack"
+disqusShortname = "visit-karma"
 
 [pagination]
     pagerSize = 5
