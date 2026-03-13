@@ -1,7 +1,7 @@
 ---
 title: "DusitD2 Feydhoo Maldives: A Luxury Overwater Villa Experience"
 date: 2025-09-01
-categories: [Maldives, Luxury Resorts]
+categories: [Maldives, Beach Resorts]
 tags: [DusitD2, Maldives, Luxury Travel, Overwater Villa, Snorkeling, All-Inclusive]
 ---
 
