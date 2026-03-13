@@ -20,7 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = "🍥"
     subtitle = "A city-dwelling family that enjoys luxury travel and outdoor adventures"
-    avatar   = "img/avatar.png"
+    avatar   = "img/visitkarma.png"
 
 [article]
     headingAnchor = false
