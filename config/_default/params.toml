@@ -10,7 +10,7 @@ favicon        = "img/visitkarma.jpg"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2023
     customText = ""
 
 [dateFormat]
@@ -46,7 +46,7 @@ SortBy              = "default"
 
 [colorScheme]
     toggle  = true
-    default = "auto"
+    default = "light"
 
 ## Comments
 [comments]
