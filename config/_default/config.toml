@@ -15,5 +15,7 @@ hasCJKLanguage = false
 # Change it to your Disqus shortname before using
 disqusShortname = "visit-karma"
 
+googleAnalytics = "G-56B1YH0DJ5"
+
 [pagination]
     pagerSize = 5
