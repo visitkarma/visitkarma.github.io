@@ -1,15 +1,11 @@
 ---
-title: "Matterhorn FOCUS Design Hotel Zermatt Switzerland"
+title: "Matterhorn FOCUS Design Hotel - Luxury Ski Stay in Zermatt"
 date: 2025-03-01
 tags: ["Switzerland", "Skiing", "Ski Hotels", "Alps"]
 categories: ["Switzerland", "Skiing"]
 ---
 
-# Matterhorn FOCUS Design Hotel Review — Luxury Ski Stay in Zermatt
-
 *Visited February 2025 • Zermatt, Switzerland*
-
-## Watch the Full Video
 
 You can watch our full hotel tour and experience here:
 
