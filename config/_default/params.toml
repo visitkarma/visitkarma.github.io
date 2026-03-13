@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon        = "img/favicon.png"
+favicon        = "img/visitkarma.jpg"
 
 # Accepted values: "default", "lastmod"
 # default = see https://gohugo.io/quick-reference/glossary/#default-sort-order
@@ -20,7 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = "🍥"
     subtitle = "A city-dwelling family that enjoys luxury travel and outdoor adventures"
-    avatar   = "img/visitkarma.png"
+    avatar   = "img/visitkarma.jpg"
 
 [article]
     headingAnchor = false
