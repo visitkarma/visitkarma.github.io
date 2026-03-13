@@ -55,8 +55,6 @@ The buffet included:
 * Fruit and yogurt
 * Coffee, tea, and juices
 
-The dining area also has large windows, so you can enjoy breakfast with views of the surrounding mountains.
-
 ---
 
 ## Ski Room & Gondola Access
@@ -65,21 +63,12 @@ For a ski vacation, convenience is everything, and this hotel does a good job he
 
 The **ski room** is well organized with:
 
-* Individual lockers
+* Individual lockers per room
 * Boot warmers
-* Plenty of space for gear
 
-From the hotel, it’s just a **short walk to the gondola**, making it easy to get on the mountain quickly in the morning.
+From the hotel, it’s just a **short walk to the Klein Matterhorn gondola**, making it easy to get on the mountain quickly in the morning.
 
 Zermatt’s ski area connects to **Cervinia in Italy**, offering a massive ski domain with stunning alpine scenery.
-
----
-
-## Après-Ski
-
-After skiing all day, the village of Zermatt has plenty of options for **après-ski drinks and atmosphere**.
-
-Many visitors stop for a drink in town before heading back to their hotels, and the lively après-ski scene is part of what makes Zermatt such a fun destination in winter.
 
 ---
 
