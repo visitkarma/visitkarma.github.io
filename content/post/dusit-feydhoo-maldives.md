@@ -10,8 +10,6 @@ tags: [DusitD2, Maldives, Luxury Travel, Overwater Villa, Snorkeling, All-Inclus
 {{< youtube tas5ISYvkQc >}}
 During my recent trip to the Maldives, I had the pleasure of staying at the **DusitD2 Feydhoo Maldives**, a luxurious resort offering overwater villas, all-inclusive dining, and a range of activities from snorkeling to nightly entertainment. Here's a detailed account of my experience.
 
-![DusitD2 Feydhoo Maldives](./DusitD2%20Feydhoo%20Maldives%20Full%20Review%20_%20Overwater%20Villa%20_%20All-Inclusive%20_%20Dining,%20snorkeling,%20beaches.png)
-
 ## Arrival & Transfer
 
 After landing at the airport, the resort arranged a **seamless transfer via ferry**. The journey across the crystal-clear waters of the Maldives was breathtaking and set the tone for the luxurious experience awaiting us.
@@ -39,7 +37,7 @@ DusitD2 Feydhoo offers a variety of restaurants with diverse cuisines:
 4. **Cocoon** – Casual dining perfect for lighter meals.
 5. **Bo Chinese** – Elegant Chinese dishes in a refined setting.
 
-The all-inclusive package made it easy to sample all the options, each offering exceptional service and quality.
+The all-inclusive package made it easy to sample all the options, each offering exceptional service and quality. This is nothign like Caribbean all-inclusive resort meals - these a high-end dining and service.
 
 ## Activities & Experiences
 
@@ -51,10 +49,9 @@ The all-inclusive package made it easy to sample all the options, each offering 
 
 ## Tips & Recommendations
 
-- Bring your snorkeling gear or rent from the resort; the underwater life is worth exploring.
+- EVen if you're not a fan, consider getting the snorkeling gear at the resort; the underwater life is worth exploring and very accessible
 - Enjoy the villa at sunrise for peaceful, private moments.
 - Try multiple dining options to get the full culinary experience.
-- Reserve some activities in advance, especially during peak season.
 
 ## Final Thoughts
 
@@ -63,6 +60,3 @@ DusitD2 Feydhoo Maldives offers an unforgettable luxury escape. The combination 
 If you're dreaming of a Maldives getaway, DusitD2 Feydhoo is a top-tier choice that delivers on both luxury and adventure.
 
 ---
-
-*Check out my full video review for a closer look at the villa, dining, and activities:*  
-[Watch the video on YouTube](https://www.youtube.com/watch?v=tas5ISYvkQc)
