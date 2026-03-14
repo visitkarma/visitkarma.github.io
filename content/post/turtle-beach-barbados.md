@@ -36,7 +36,7 @@ Inside the room you’ll find:
 - Standard furnishings typical of older Caribbean resorts
 - A bathroom with **refillable toiletries**
 
-While the room was functional, the **entire property feels like it’s in desperate need of renovation**. The decor and facilities feel dated compared to many modern Caribbean resorts.
+While the room was functional, the **entire property feels like it’s in need of renovation**. The decor and facilities feel dated compared to many modern Caribbean resorts.
 
 However, one thing that absolutely makes up for it is the **view**.
 
@@ -191,7 +191,7 @@ However, it still has several strong advantages:
 - Check-in experience could be better
 - Buffet food is **good but not standout**
 
-Overall, **Turtle Beach may actually be the best of the three Marriott all-inclusive properties**, primarily because of its fantastic beach.
+Overall, **Turtle Beach may actually be the best of the three Marriott all-inclusive properties in Barbados**, primarily because of its fantastic beach.
 
 If your priority is **ocean views and beach access**, this resort still delivers.
 
