@@ -1,6 +1,6 @@
 ---
 title: "Turtle Beach Barbados Review – Marriott All-Inclusive on the South Coast"
-date: 2025-03-08
+date: 2024-07-01
 categories: [travel, hotels, barbados, marriott]
 tags: [barbados, marriott, all-inclusive, turtle-beach, luxury-travel]
 ---
