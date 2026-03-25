@@ -4,7 +4,6 @@ date: 2026-01-20
 description: "A detailed review of Royalton Bavaro Punta Cana during Christmas 2025 covering Diamond Club experience, dining, beaches, pools, and entertainment."
 tags: ["Punta Cana", "All-Inclusive", "Luxury Travel", "Marriott Bonvoy", "Resort Review"]
 categories: ["Travel", "All-Inclusive", "Beach Resorts", "Caribbean"]
-image: "/images/royalton-bavaro-cover.jpg"
 ---
 
 ## 🎥 Watch the Full Video
