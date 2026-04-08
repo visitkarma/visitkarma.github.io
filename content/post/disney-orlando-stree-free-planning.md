@@ -3,6 +3,7 @@ title: "How to Plan a Stress-Free Disney World Trip (Without Overspending)"
 date: 2026-04-08
 draft: false
 tags: ["disney", "orlando", "travel planning", "family travel", "theme parks"]
+categories: ["Disney", "Theme Parks"]
 ---
 
 Planning a Disney World trip can feel overwhelming — especially with all the new systems, reservations, and add-ons. After our recent trip to Orlando, I put together a structured approach to minimize stress, maximize ride time, and keep costs reasonable.
