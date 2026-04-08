@@ -1,33 +1,169 @@
-I have a github pages travel blog site based on the Hugo Theme Stack.
-can you generate  markdown for my latest blog post from my Disney Orlando visit.
+---
+title: "How to Plan a Stress-Free Disney World Trip (Without Overspending)"
+date: 2026-04-08
+draft: false
+tags: ["disney", "orlando", "travel planning", "family travel", "theme parks"]
+---
 
-I want to write the post about planning the ideal stress-free Disney vacation using the best tools available at a reasonable price point. I'd like it structured by what needs to be ourchased in what time-frame
+Planning a Disney World trip can feel overwhelming — especially with all the new systems, reservations, and add-ons. After our recent trip to Orlando, I put together a structured approach to minimize stress, maximize ride time, and keep costs reasonable.
 
+This guide breaks everything down by **when you need to book it**.
 
-1. 91+ days in advance of the trip: book Disney hotels. <$300 per night
-We picked Disney Pop Century which is in Disney's value category. You can splurge for a fancier hotel but we spend very little time in the room so didn't feel it was worth it. 
-This resort has all lots of benefits (early admissions, early lightning lanes etc.) without paying a ton out of pocket. it has bus service to magic kingdowm but very convenient skyliner service to hollywood studios - important for Star Wars fans
+---
 
-2. 91+ days in advance of the trip: Disney Theme Park passes - 
-In our case (YMMV)
-2-days 1-park per day, $318 per person
+## 🗓️ 91+ Days Before Your Trip
 
-3. 90 days before - dining reservations
-use the disney website and link hotel reservations to book dining reservations. We booked Oga's Cantina for a star wars experience in Magic Kindgom. About ~$120 for a family but not a full lunch, just drinks and snacks. Worthwhile experience
-We also booked the fireworks dessert party in Magic Kidgdom - pricey at $100 per adult and $50 per child but totally worth it for a no-rush, front-row parade and fireworks experience
+### 🏨 Book Your Disney Hotel (<$300/night)
 
-4. 10 days before. for Magic Kingdom we booked a disney VIP concierge service. $100 per person
-These services will become added as 'friends' to your disney account and manage your lightning lane bookings and overall coordination for the day. They were EXTREMELY valuable for Magic Kingdom which has the most rides and attractions. Without such a service you'll be in your phone all day looking up the next attraction. They aren't cheap but they're much more affordable than the approx ~350 pp lightning lane premier, especially if your trip is in a peak week like spring break weeks.
-We used Rodrigo at Japa Orlando https://www.japaorlando.com. 
+We chose **Disney Pop Century Resort**, part of Disney’s value category.
 
-5. At 7am 7 days before ~$65 per person - multi-lane and single-lane lightning passes
-Must do for rides like Tron and Star Wars: rise of the resistance (single ll) as well as others like seven dwarfs and millenium falcon (multi ll). The concierge will manage this for the days you've booked with them. We booked Rodrigo for Magic Kingdom but not for Hollywood Studios so we did this at T-7 for Hollywood Studios.
+You *can* splurge on deluxe resorts, but we spend very little time in the room — so value made more sense.
 
-IMPORTANT: the booking windows open 7 days before your check-in date. Not your Disney park visit date. For example, you could be doing Hollywood Studios on the 3rd day of your trip but you'll be able to book those lightning lanes 10 days in advance (not 7) because your check-in date is earlier.
+**Why Pop Century worked for us:**
+- Early park entry perks
+- Access to Lightning Lane booking advantages
+- Bus service to Magic Kingdom
+- 🚠 **Skyliner access to Hollywood Studios** (huge for Star Wars fans)
 
-6. 7 days before $35 - book wait magic (thrilldata.com). We set up an account and used this for the days we weren't using the concierge.  They can link up to your account and learn your current lightning lanes bookings and execute searches in some sort of a loop to keep looking for earlier open slots (or different rides if you wish to switch). $35 for 10 days - worth it. They moved Hollywodo studios ride reservations earlier multiple times from us, including moving ~830pm reservations into the afternoon.Rodrigo did great for Magic Kingdom but this was much cheaper and we were able to do everything we wanted at Hollywood studios by 6pm thanks to wait magic.
+---
 
-7. On the day of: StandbySkipper $25 - we paid for this for a day for it to book new rides once a lighting lane is used up. it only really did its thing for one ride so I'm not sure i'd get it again but it is useful if you don't want to tap into a ride and then immediately get onto your phone to look for your next one.
+### 🎟️ Buy Theme Park Tickets
 
+In our case (your mileage may vary):
 
-I'll soon write a similar blog for Universal Orlando
+- **2 days, 1 park per day**
+- 💰 ~$318 per person
+
+Keeping it to 1 park per day simplifies logistics and reduces stress.
+
+---
+
+## 🗓️ 90 Days Before
+
+### 🍽️ Dining Reservations
+
+Use the Disney website and **link your hotel reservation** to unlock booking.
+
+**What we booked:**
+
+- **Oga’s Cantina (Hollywood Studios)**
+  - ~$120 for a family
+  - Drinks + snacks (not a full meal)
+  - Totally worth it for the Star Wars atmosphere
+
+- **Magic Kingdom Fireworks Dessert Party**
+  - $100/adult, $50/child
+  - Expensive — but worth it
+  - 🎆 Reserved viewing area = no crowds, no stress
+
+---
+
+## 🗓️ 10 Days Before
+
+### 🎯 VIP Concierge Service (~$100/person)
+
+For Magic Kingdom, we used a third-party concierge service.
+
+They:
+- Add themselves to your Disney account
+- Manage Lightning Lane bookings
+- Plan your day in real time
+
+👉 We used: https://www.japaorlando.com (Rodrigo)
+
+**Verdict:**
+- Extremely valuable for Magic Kingdom (most rides, most chaos)
+- Saves you from constantly checking your phone
+- Much cheaper than Disney’s ~$350/person premium Lightning Lane option
+
+---
+
+## 🗓️ 7 Days Before (Critical Window)
+
+### ⚡ Lightning Lane Passes (~$65/person)
+
+At **7:00 AM**, 7 days before your **check-in date**, booking opens.
+
+> ⚠️ Important: This is based on your **hotel check-in date**, not park day.
+
+Example:
+- Check-in Day = Day 1  
+- Hollywood Studios = Day 3  
+- You can book Day 3 rides at **T-7 from check-in (i.e., 10 days before park visit)**
+
+**Must-book rides:**
+- TRON (Single Lane)
+- Rise of the Resistance (Single Lane)
+- Seven Dwarfs Mine Train
+- Millennium Falcon
+
+If you’re using a concierge, they’ll handle this for you.
+
+---
+
+### 🤖 Wait Magic (~$35 for 10 days)
+
+Website: thrilldata.com
+
+This was one of the **best value tools we used**.
+
+**What it does:**
+- Links to your Disney account
+- Monitors your Lightning Lane bookings
+- Automatically searches for earlier times
+
+**Real results:**
+- Moved multiple evening rides into the afternoon
+- Helped us finish Hollywood Studios by **6 PM**
+
+💡 We used concierge for Magic Kingdom, but **Wait Magic handled Hollywood Studios perfectly** at a fraction of the cost.
+
+---
+
+## 🗓️ Day Of Your Visit
+
+### 📱 Standby Skipper (~$25/day)
+
+This tool:
+- Books your next Lightning Lane automatically after you tap into a ride
+
+**Our take:**
+- Worked well for one ride
+- Didn’t add enough value to justify repeat use
+
+👉 Useful if you *really* don’t want to touch your phone at all during the day.
+
+---
+
+## 🎯 Final Thoughts
+
+A stress-free Disney trip comes down to **planning + smart tool selection**:
+
+- Spend early on **hotel + tickets**
+- Lock in **experiences at 90 days**
+- Use **automation tools or concierge services** to avoid phone fatigue
+- Prioritize **Magic Kingdom support** (it’s the hardest park to manage)
+
+We were able to:
+- Ride everything we wanted
+- Avoid long standby lines
+- Finish parks early enough to relax
+
+---
+
+## 📌 What I’d Do Again
+
+✅ Pop Century Resort  
+✅ Fireworks Dessert Party  
+✅ Concierge (for Magic Kingdom only)  
+✅ Wait Magic  
+
+## ❓ What I’d Skip Next Time
+
+❌ Standby Skipper (low ROI for us)
+
+---
+
+I’ll be sharing a similar breakdown for **Universal Orlando** next — where the strategy is completely different (and arguably simpler).
+
+Stay tuned!
