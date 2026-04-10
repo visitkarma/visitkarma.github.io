@@ -44,6 +44,11 @@ Keeping it to 1 park per day simplifies logistics and reduces stress.
 
 ---
 
+### Install MyDisneyExperience
+You'll need this app. Install it and set up an account if you don't already have one (e.g. via Disney+)
+
+You can then link your theme park tickets and hotel booking to your account.
+
 ## 🗓️ 90 Days Before
 
 ### 🍽️ Dining Reservations
