@@ -23,8 +23,13 @@ You *can* splurge on deluxe resorts, but we spend very little time in the room â
 **Why Pop Century worked for us:**
 - Early park entry perks
 - Access to Lightning Lane booking advantages
+- Can accomodate familes of 4 with a queen and a murphy bed - beds were very comfortable
 - Bus service to Magic Kingdom
 - ðŸš  **Skyliner access to Hollywood Studios** (huge for Star Wars fans)
+
+We booked on **Priceline** via **TopCashback** which was the best deal I could find at the time (better than booking direct with Disney.
+
+We were able to link the priceline reservation to the MyDisneyExperience app easily.
 
 ---
 
