@@ -6,7 +6,7 @@ menu:
     main:
         weight: 7
         params:
-            icon: shield
+            icon: copyright
 comments: false
 ---
 
