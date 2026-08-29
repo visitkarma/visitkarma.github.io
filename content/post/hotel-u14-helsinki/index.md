@@ -11,7 +11,7 @@ categories: ["Travel", "Hotel Review", "Finland"]
 
 {{< youtube TOqExQg6Was >}}
 
-We spent a few nights at **Hotel U14** in Helsinki, a Marriott Autograph Collection property tucked one block in from the harborfront. Between the location, the boutique design, and a couple of excursions we booked around the stay, this turned into one of our favorite city hotel experiences in a while.
+We spent one night at **Hotel U14** in Helsinki, a Marriott Autograph Collection property tucked one block in from the harborfront. Between the location, the boutique design, and a couple of excursions we booked around the stay, this turned into one of our favorite city hotel experiences in a while.
 
 ## Getting There and Getting Oriented
 
@@ -84,6 +84,8 @@ There's also a proper **coffee, tea, and juice station - and yes, marshmallows t
 While we were there, **we booked a private boat charter for the morning** out to **Suomenlinna and the archipelago with Helsinki Cruise Charters**. It's an easy, scenic way to see the sea fortress and surrounding islands without dealing with public ferry schedules.
 
 ![Heading out toward Suomenlinna on a private morning boat charter](boat-charter.jpg)
+
+Since this was only a one-night stay, timing mattered - and this is where **Platinum status came through again**. The hotel gave us a **3pm late checkout**, which meant we could come back from the boat cruise, shower and freshen up in the room, and still head out for an afternoon of sightseeing before catching our train that night.
 
 ## Sunset Dinner at Loyly
 
