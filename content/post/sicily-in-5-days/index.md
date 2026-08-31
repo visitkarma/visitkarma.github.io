@@ -37,9 +37,9 @@ If you're an early riser, a **gorgeous sunrise over the harbour** the next morni
 
 Erice is a clifftop medieval village above the port city of Trapani, and it's a full day trip from the Palermo area - budget a good chunk of the day for the winding roads up.
 
-You have two options for the final ascent: **drive up to the village directly**, or **take the cable car (the Funivia Erice)** from Trapani. Tickets for the cable car can be **bought online in advance** to skip the line.
+You have two options for the final ascent: **drive up to the village directly**, or take the more "touristy" but fun **cable car (the Funivia Erice)** from Trapani. Tickets for the cable car can be **bought online in advance** to skip the line.
 
-![The Funivia Erice cable car ticket and information board](erice-funivia.jpg)
+![The road up to Erice, with the Funivia Erice cable car station and a gondola visible on the hillside](erice-funivia.jpg)
 
 From the cable car, you get **gorgeous views over Trapani and the Mediterranean** on the way up.
 
@@ -47,7 +47,7 @@ From the cable car, you get **gorgeous views over Trapani and the Mediterranean*
 
 Once you're up top, plan on walking the whole village - it's compact, but the views are **for miles, so bring a hat and sunglasses**.
 
-![Walkway along Erice's medieval castle walls](erice-castle-walk.jpg)
+![Sweeping valley views from Erice's hilltop, near the medieval castle walls](erice-castle-walk.jpg)
 
 One thing to know: Erice sits high enough that it's **incredibly scenic with low clouds rolling in and out** through the day, which can change the whole mood of your visit in minutes.
 
