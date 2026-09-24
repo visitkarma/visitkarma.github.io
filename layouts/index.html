@@ -1,0 +1,313 @@
+{{/*
+  Visit Karma homepage — drop-in override.
+  Install: copy this file to <your-hugo-site>/layouts/index.html
+  (it overrides whatever homepage your theme ships, no theme edits needed).
+
+  How it works:
+  - Featured = your most recent post.
+  - "Collections" mirror your YouTube playlists and are driven by the
+    categories/tags you already use. A collection only renders when it has posts,
+    so new ones (e.g. Flight Reviews) appear automatically once you tag posts.
+  - "Destinations" groups your country tags into regions. To add a country,
+    add its tag slug to the right region in $regions below.
+*/}}
+{{ $pages := where .Site.RegularPages "Section" "in" (slice "p" "post") }}
+{{ $pages = $pages.ByDate.Reverse }}
+{{ $featured := index $pages 0 }}
+
+{{/* ---- Collections: title, blurb, matching categories/tags, "view all" link ---- */}}
+{{ $collections := slice
+  (dict "title" "Hotel & Resort Reviews" "blurb" "Honest reviews of the luxury hotels and resorts we've stayed in — the details the brochure leaves out." "cats" (slice "hotel-review" "resort-review") "tags" (slice) "more" "categories/hotel-review/")
+  (dict "title" "Itineraries" "blurb" "Day-by-day trip plans you can steal: routes, hotels, driving notes and practical tips." "cats" (slice "itinerary") "tags" (slice) "more" "categories/itinerary/")
+  (dict "title" "Travel Tips & Money Savers" "blurb" "Airport hacks, rental-car tricks and planning advice that saves real money." "cats" (slice "travel-tips") "tags" (slice "airport-tips" "travel-planning") "more" "categories/travel-tips/")
+  (dict "title" "Skiing & Winter" "blurb" "Ski resorts, mountain hotels and alpine guides from our winter trips." "cats" (slice "skiing") "tags" (slice "ski-hotels" "french-alps") "more" "categories/skiing/")
+  (dict "title" "Flight Reviews" "blurb" "Business and premium cabins, reviewed honestly." "cats" (slice) "tags" (slice "flight-review" "business-class" "premium-economy") "more" "tags/flight-review/")
+}}
+
+{{/* ---- Regions: country tag slugs grouped for the Destinations section ---- */}}
+{{ $regions := slice
+  (dict "name" "Caribbean" "countries" (slice "antigua" "barbados" "punta-cana" "caribbean"))
+  (dict "name" "Europe" "countries" (slice "italy" "sicily" "slovakia" "finland" "austria" "france" "switzerland" "iceland" "scotland" "slovenia" "croatia" "french-alps"))
+  (dict "name" "Asia" "countries" (slice "maldives" "japan" "india" "rajasthan"))
+  (dict "name" "North America" "countries" (slice "alabama" "orlando" "disney" "arizona" "vermont" "new-hampshire"))
+  (dict "name" "South America" "countries" (slice "peru" "machu-picchu"))
+}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Site.Title }} — Family luxury travel guides, itineraries & honest hotel reviews</title>
+<meta name="description" content="Visit Karma: a city-dwelling family that enjoys luxury travel and outdoor adventures. Honest hotel reviews, day-by-day itineraries and money-saving travel tips.">
+<style>
+  :root{
+    --bg:#faf8f4; --card:#ffffff; --ink:#1c1917; --muted:#78716c;
+    --accent:#0f766e; --accent-dark:#0b5d57; --line:#e7e0d6; --chip:#f1ece3;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.6}
+  a{color:inherit}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+  /* header */
+  header.site{position:sticky;top:0;z-index:50;background:rgba(250,248,244,.94);
+    backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  header.site .wrap{display:flex;align-items:center;gap:28px;height:64px}
+  .brand{font-weight:800;font-size:1.25rem;letter-spacing:-.02em;text-decoration:none}
+  .brand span{color:var(--accent)}
+  nav.main{display:flex;gap:22px;margin-left:auto;font-size:.95rem}
+  nav.main a{text-decoration:none;color:var(--muted)}
+  nav.main a:hover{color:var(--ink)}
+  .yt-btn{background:#ff0033;color:#fff!important;text-decoration:none;font-weight:700;
+    padding:8px 16px;border-radius:999px;font-size:.9rem;white-space:nowrap}
+  /* hero */
+  .hero{padding:72px 0 56px;text-align:center}
+  .hero h1{font-size:clamp(2rem,4.5vw,3.2rem);letter-spacing:-.03em;line-height:1.15;margin:0 0 12px}
+  .hero h1 em{font-style:normal;color:var(--accent)}
+  .hero p.tag{font-size:1.15rem;color:var(--muted);max-width:640px;margin:0 auto 28px}
+  .stats{display:flex;gap:36px;justify-content:center;margin:0 0 30px;flex-wrap:wrap}
+  .stats div{text-align:center}
+  .stats b{display:block;font-size:1.6rem;letter-spacing:-.02em}
+  .stats span{font-size:.85rem;color:var(--muted)}
+  .cta-row{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+  .btn{display:inline-block;padding:12px 24px;border-radius:999px;font-weight:700;
+    text-decoration:none;font-size:1rem}
+  .btn.primary{background:var(--accent);color:#fff}
+  .btn.primary:hover{background:var(--accent-dark)}
+  .btn.ghost{border:1px solid var(--line);background:var(--card)}
+  /* sections */
+  section.block{padding:44px 0}
+  .sec-head{display:flex;align-items:baseline;gap:16px;margin-bottom:6px}
+  .sec-head h2{font-size:1.6rem;letter-spacing:-.02em;margin:0}
+  .sec-head p{color:var(--muted);margin:0 0 20px}
+  /* featured */
+  .featured{display:grid;grid-template-columns:1.15fr 1fr;background:var(--card);
+    border:1px solid var(--line);border-radius:18px;overflow:hidden;text-decoration:none}
+  .featured:hover{box-shadow:0 12px 32px rgba(28,25,23,.10)}
+  .featured .img{min-height:320px;background:#ddd center/cover}
+  .featured .body{padding:36px;display:flex;flex-direction:column;justify-content:center}
+  .kicker{display:inline-block;font-size:.75rem;font-weight:800;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+  .featured h3{font-size:1.7rem;letter-spacing:-.02em;margin:0 0 10px;line-height:1.25}
+  .featured p{color:var(--muted);margin:0 0 18px}
+  .read-more{font-weight:700;color:var(--accent)}
+  /* cards */
+  .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+  .grid.cols-3{grid-template-columns:repeat(3,1fr)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;text-decoration:none;display:flex;flex-direction:column}
+  .card:hover{box-shadow:0 10px 26px rgba(28,25,23,.10);transform:translateY(-2px)}
+  .card .img{aspect-ratio:16/10;background:#e5ded2 center/cover}
+  .card .body{padding:16px 18px;display:flex;flex-direction:column;gap:6px;flex:1}
+  .card h3{font-size:1.02rem;margin:0;line-height:1.35;letter-spacing:-.01em}
+  .card .meta{font-size:.8rem;color:var(--muted);margin-top:auto;padding-top:8px}
+  .collection{margin-bottom:40px}
+  .collection:last-child{margin-bottom:0}
+  .coll-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:14px}
+  .coll-head h3{font-size:1.25rem;margin:0;letter-spacing:-.01em}
+  .coll-head p{color:var(--muted);font-size:.92rem;margin:4px 0 0;max-width:640px}
+  .view-all{font-weight:700;color:var(--accent);text-decoration:none;white-space:nowrap;font-size:.95rem}
+  /* destinations */
+  .region{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;display:flex;flex-direction:column}
+  .region .img{height:150px;background:#e5ded2 center/cover}
+  .region .body{padding:18px}
+  .region h3{margin:0 0 2px;font-size:1.15rem;letter-spacing:-.01em}
+  .region .count{font-size:.85rem;color:var(--muted);margin-bottom:12px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{background:var(--chip);border:1px solid var(--line);border-radius:999px;
+    padding:5px 12px;font-size:.82rem;text-decoration:none}
+  .chip:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .chip b{font-weight:700}
+  /* youtube banner */
+  .yt-banner{background:#1c1917;color:#f5f0e8;border-radius:18px;padding:44px;
+    display:flex;align-items:center;gap:28px;flex-wrap:wrap}
+  .yt-banner h2{margin:0 0 8px;font-size:1.5rem;letter-spacing:-.02em}
+  .yt-banner p{margin:0;color:#b8b0a4;max-width:560px}
+  .yt-banner .yt-btn{margin-left:auto;font-size:1rem;padding:12px 26px}
+  /* footer */
+  footer.site{border-top:1px solid var(--line);margin-top:20px;padding:32px 0;color:var(--muted);font-size:.9rem}
+  footer.site .wrap{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
+  footer.site nav{display:flex;gap:18px;margin-left:auto}
+  footer.site nav a{text-decoration:none;color:var(--muted)}
+  @media(max-width:900px){
+    .grid,.grid.cols-3{grid-template-columns:repeat(2,1fr)}
+    .featured{grid-template-columns:1fr}
+    .featured .img{min-height:220px}
+    nav.main a:not(.yt-btn){display:none}
+  }
+  @media(max-width:560px){.grid,.grid.cols-3{grid-template-columns:1fr}.hero{padding:48px 0 36px}}
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="{{ "/" | relURL }}">Visit<span>Karma</span></a>
+    <nav class="main">
+      <a href="#collections">Collections</a>
+      <a href="#destinations">Destinations</a>
+      <a href="#latest">Latest</a>
+      <a href="{{ "about/" | relURL }}">About</a>
+      <a class="yt-btn" href="https://www.youtube.com/@visitkarma" target="_blank" rel="noopener">▶ YouTube</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <!-- HERO -->
+  <div class="hero">
+    <h1>Family luxury travel, <em>honestly reviewed.</em></h1>
+    <p class="tag">We're a city-dwelling family that enjoys luxury travel and outdoor adventures —
+      sharing honest hotel reviews, day-by-day itineraries and money-saving tips from our trips.</p>
+    <div class="stats">
+      <div><b>{{ len $pages }}</b><span>trip guides</span></div>
+      <div><b>{{ len .Site.Taxonomies.tags }}</b><span>destinations &amp; topics</span></div>
+      <div><b>300+</b><span>YouTube videos</span></div>
+    </div>
+    <div class="cta-row">
+      <a class="btn primary" href="#destinations">Explore by destination</a>
+      <a class="btn ghost" href="https://www.youtube.com/@visitkarma" target="_blank" rel="noopener">▶ Watch on YouTube</a>
+    </div>
+  </div>
+
+  <!-- FEATURED -->
+  {{ with $featured }}
+  {{ $fp := . }}
+  {{ $fsrc := "" }}
+  {{ with $fp.Params.image }}{{ $r := $fp.Resources.GetMatch . }}{{ if $r }}{{ $fsrc = $r.RelPermalink }}{{ else }}{{ $fsrc = . }}{{ end }}{{ end }}
+  <section class="block" style="padding-top:0">
+    <a class="featured" href="{{ $fp.RelPermalink }}">
+      {{ if $fsrc }}<div class="img" style="background-image:url('{{ $fsrc }}')"></div>{{ end }}
+      <div class="body">
+        <span class="kicker">Latest trip</span>
+        <h3>{{ $fp.Title }}</h3>
+        <p>{{ $fp.Params.description | default ($fp.Summary | truncate 160) }}</p>
+        <span class="read-more">Read the guide →</span>
+      </div>
+    </a>
+  </section>
+  {{ end }}
+
+  <!-- COLLECTIONS (mirrors the YouTube playlists) -->
+  <section class="block" id="collections">
+    <div class="sec-head"><h2>Browse by collection</h2></div>
+    <p style="color:var(--muted);margin-top:0">Same idea as the playlists on our YouTube channel — every trip, grouped by what it is.</p>
+    {{ range $collections }}
+      {{ $c := . }}
+      {{ $hits := slice }}
+      {{ range $pages }}
+        {{ $p := . }}
+        {{ $pcats := apply (default (slice) $p.Params.categories) "urlize" "." }}
+        {{ $ptags := apply (default (slice) $p.Params.tags) "urlize" "." }}
+        {{ $inCat := gt (len (intersect $pcats $c.cats)) 0 }}
+        {{ $inTag := gt (len (intersect $ptags $c.tags)) 0 }}
+        {{ if or $inCat $inTag }}{{ $hits = $hits | append $p }}{{ end }}
+      {{ end }}
+      {{ if gt (len $hits) 0 }}
+      <div class="collection">
+        <div class="coll-head">
+          <div><h3>{{ $c.title }}</h3><p>{{ $c.blurb }}</p></div>
+          <a class="view-all" href="{{ $c.more | relURL }}">View all {{ len $hits }} →</a>
+        </div>
+        <div class="grid">
+          {{ range first 4 $hits }}
+            {{ $pg := . }}
+            {{ $src := "" }}
+            {{ with $pg.Params.image }}{{ $r := $pg.Resources.GetMatch . }}{{ if $r }}{{ $src = $r.RelPermalink }}{{ else }}{{ $src = . }}{{ end }}{{ end }}
+            <a class="card" href="{{ $pg.RelPermalink }}">
+              {{ if $src }}<div class="img" style="background-image:url('{{ $src }}')"></div>{{ end }}
+              <div class="body">
+                <h3>{{ $pg.Title }}</h3>
+                <div class="meta">{{ $pg.Date.Format "Jan 2, 2006" }}</div>
+              </div>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
+  </section>
+
+  <!-- DESTINATIONS -->
+  <section class="block" id="destinations">
+    <div class="sec-head"><h2>Destinations</h2></div>
+    <p style="color:var(--muted);margin-top:0">Planning a trip somewhere? Start with everywhere we've been.</p>
+    <div class="grid cols-3">
+      {{ range $regions }}
+        {{ $r := . }}{{ $total := 0 }}{{ $cover := "" }}{{ $chips := slice }}
+        {{ range $r.countries }}
+          {{ $slug := . }}
+          {{ with index $.Site.Taxonomies.tags $slug }}
+            {{ $n := len .Pages }}{{ $total = add $total $n }}
+            {{ $first := index .Pages.ByDate.Reverse 0 }}
+            {{ if and (eq $cover "") $first.Params.image }}
+              {{ $rr := $first.Resources.GetMatch $first.Params.image }}
+              {{ if $rr }}{{ $cover = $rr.RelPermalink }}{{ else }}{{ $cover = $first.Params.image }}{{ end }}
+            {{ end }}
+            {{ $label := .Page.Title | default (humanize $slug) }}
+            {{ $chips = $chips | append (dict "slug" $slug "label" $label "n" $n) }}
+          {{ end }}
+        {{ end }}
+        {{ if gt $total 0 }}
+        <div class="region">
+          {{ if $cover }}<div class="img" style="background-image:url('{{ $cover }}')"></div>{{ end }}
+          <div class="body">
+            <h3>{{ $r.name }}</h3>
+            <div class="count">{{ $total }} guide{{ if gt $total 1 }}s{{ end }}</div>
+            <div class="chips">
+              {{ range $chips }}<a class="chip" href="{{ printf "tags/%s/" .slug | relURL }}">{{ .label }} <b>{{ .n }}</b></a>{{ end }}
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- LATEST -->
+  <section class="block" id="latest">
+    <div class="sec-head"><h2>Latest posts</h2></div>
+    <div class="grid">
+      {{ range first 8 (after 1 $pages) }}
+        {{ $pg := . }}
+        {{ $src := "" }}
+        {{ with $pg.Params.image }}{{ $r := $pg.Resources.GetMatch . }}{{ if $r }}{{ $src = $r.RelPermalink }}{{ else }}{{ $src = . }}{{ end }}{{ end }}
+        <a class="card" href="{{ $pg.RelPermalink }}">
+          {{ if $src }}<div class="img" style="background-image:url('{{ $src }}')"></div>{{ end }}
+          <div class="body">
+            <h3>{{ $pg.Title }}</h3>
+            <div class="meta">{{ $pg.Date.Format "Jan 2, 2006" }}</div>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- YOUTUBE CTA -->
+  <section class="block">
+    <div class="yt-banner">
+      <div>
+        <h2>Every guide starts as a video.</h2>
+        <p>Follow along on YouTube for the full trip footage behind these posts — 300+ videos and counting.</p>
+      </div>
+      <a class="yt-btn" href="https://www.youtube.com/@visitkarma" target="_blank" rel="noopener">▶ Subscribe on YouTube</a>
+    </div>
+  </section>
+</div>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© {{ now.Format "2006" }} {{ .Site.Title }}</span>
+    <nav>
+      <a href="{{ "about/" | relURL }}">About</a>
+      <a href="{{ "contact/" | relURL }}">Contact</a>
+      <a href="{{ "privacy/" | relURL }}">Privacy</a>
+      <a href="https://www.youtube.com/@visitkarma" target="_blank" rel="noopener">YouTube</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>
