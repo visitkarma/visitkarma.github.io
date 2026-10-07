@@ -1,6 +1,7 @@
 ---
 title: "Hotel Carlina Review — Ski-In/Ski-Out Luxury in Courchevel 1850"
 date: 2024-03-01
+lastmod: 2026-03-21
 tags: ["France", "Skiing", "Ski Hotels", "Alps"]
 categories: ["French Alps", "Skiing"]
 ---

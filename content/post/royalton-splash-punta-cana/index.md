@@ -1,6 +1,7 @@
 ---
 title: "Royalton Splash Punta Cana: Beach, Water Park, Pool and Entertainment — Christmas 2022"
 date: 2023-03-11
+lastmod: 2026-09-25
 cover: waterpark-aerial.jpg
 description: "Christmas 2022 at Royalton Splash Punta Cana: the water park, a fun (but not calm) beach, pool foam party, water slides, kids club activities, and evening entertainment."
 categories: ["Hotel Review"]

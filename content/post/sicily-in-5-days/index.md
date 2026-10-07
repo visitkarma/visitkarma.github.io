@@ -1,6 +1,7 @@
 ---
 title: "Sicily in 5 Days: A Fast-Paced Itinerary From Palermo to Taormina"
 date: 2026-08-31
+lastmod: 2026-08-31
 description: "A day-by-day 5-day Sicily itinerary covering Palermo, Monreale, Erice, Agrigento, Siracusa, Mount Etna, and Taormina, with hotels, driving notes, and practical tips."
 image: "monreale-cathedral.jpg"
 tags: ["Sicily", "Italy", "Road Trip", "Itinerary", "Palermo", "Taormina"]

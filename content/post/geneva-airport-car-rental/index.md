@@ -1,6 +1,7 @@
 ---
 title: "Geneva Airport Car Rental: Save Money on the French Side (With Caveats)"
 date: 2024-02-29
+lastmod: 2026-09-24
 description: "Geneva Airport (GVA) sits on the French-Swiss border with rental counters on both sides. The French side is cheaper - but French rentals lack Swiss motorway vignettes and winter tires, and the airport layout is confusing. Here's how to do it right."
 image: "french-sector-exit.jpg"
 tags: ["Geneva", "Switzerland", "France", "Car Rental", "Airport Tips", "Travel Tips"]

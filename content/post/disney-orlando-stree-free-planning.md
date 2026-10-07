@@ -1,6 +1,7 @@
 ---
 title: "How to Plan a Stress-Free Disney World Trip (Without Overspending)"
 date: 2026-04-08
+lastmod: 2026-04-08
 draft: false
 tags: ["disney", "orlando", "travel planning", "family travel", "theme parks"]
 categories: ["Disney", "Theme Parks"]
