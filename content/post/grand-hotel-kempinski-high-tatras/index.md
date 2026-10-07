@@ -1,6 +1,7 @@
 ---
 title: "Grand Hotel Kempinski High Tatras: Lake Views, Balcony Suites and a Standout Spa"
 date: 2026-09-21
+lastmod: 2026-09-21
 description: "Our three-night Grand Hotel Kempinski High Tatras review: balcony suites, Štrbské Pleso lake views, a standout spa, breakfast and family hikes in Slovakia."
 image: "hotel-lake-aerial.jpg"
 slug: "grand-hotel-kempinski-high-tatras"

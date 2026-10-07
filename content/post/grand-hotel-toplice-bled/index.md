@@ -1,6 +1,7 @@
 ---
 title: "Grand Hotel Toplice: The Best Stay in the Julian Alps, Lake Bled"
 date: 2023-07-25
+lastmod: 2026-09-25
 cover: hotel-lakefront.jpg
 description: "Grand Hotel Toplice is the only luxury lakefront hotel in Bled, Slovenia. We booked a lake view suite — a bit dated, but the views over Lake Bled are stunning."
 categories: ["Hotel Review"]

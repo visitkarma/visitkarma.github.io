@@ -1,6 +1,7 @@
 ---
 title: "Hakone & Mt Fuji: Pirate Ships, Black Eggs, and Sakura at Chureito Pagoda"
 date: 2025-05-28
+lastmod: 2026-09-23
 description: "A 2-day Hakone and Mt Fuji itinerary: bullet train from Kyoto, Mishima Skywalk and zipline, sunset over Lake Ashi, the Hakone pirate ship and ropeway, Owakudani's black eggs, Hakone Shrine's floating torii gate, and cherry blossoms at Chureito Pagoda."
 image: "fuji-from-bullet-train.jpg"
 tags: ["Japan", "Hakone", "Mt Fuji", "Itinerary", "Cherry Blossom", "Chureito Pagoda"]

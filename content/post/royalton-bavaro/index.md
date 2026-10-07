@@ -1,6 +1,7 @@
 ---
 title: "Royalton Bavaro Punta Cana Review (Christmas 2025): Diamond Club, Dining, Beaches & More"
 date: 2026-01-20
+lastmod: 2026-09-25
 cover: resort-aerial.jpg
 description: "A detailed review of Royalton Bavaro Punta Cana during Christmas 2025 covering Diamond Club experience, dining, beaches, pools, and entertainment."
 categories: ["Hotel Review"]

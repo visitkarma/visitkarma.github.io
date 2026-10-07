@@ -1,6 +1,7 @@
 ---
 title: "Hotel U14 Helsinki: A Marriott Autograph Collection Gem by Market Square"
 date: 2026-08-29
+lastmod: 2026-08-29
 description: "A review of Hotel U14 Helsinki, a Marriott Autograph Collection hotel one block from the harborfront and Market Square, including a Suomenlinna boat charter and sunset dinner at Loyly."
 image: "room-wide.jpg"
 tags: ["Helsinki", "Finland", "Marriott Bonvoy", "Autograph Collection", "Hotel Review"]

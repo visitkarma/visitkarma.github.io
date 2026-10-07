@@ -1,6 +1,7 @@
 ---
 title: "Iceland in 3 Nights: South Coast Waterfalls, Glacier Lagoon & the Golden Circle"
 date: 2023-06-24
+lastmod: 2026-10-05
 image: iceland-map.jpg
 description: "A 3-night Iceland itinerary: driving the South Coast to Seljalandsfoss and Skogafoss, Reynisfjara black sand beach, Jokulsarlon glacier lagoon, and the Golden Circle — with day-by-day stops and tips."
 categories: ["Itinerary"]

@@ -1,6 +1,7 @@
 ---
 title: "Huntsville Marriott Space & Rocket Center: A Great-Value Family Stay"
 date: 2026-08-20
+lastmod: 2026-08-20
 description: "A review of a weekend stay at the Huntsville Marriott at the U.S. Space & Rocket Center: room upgrade with rocket views, Platinum breakfast, parking, gym, and more."
 image: "room-view-day.jpg"
 tags: ["Huntsville", "Space Camp", "Marriott Bonvoy", "Hotel Review", "Family Travel"]

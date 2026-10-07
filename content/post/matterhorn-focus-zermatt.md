@@ -1,6 +1,7 @@
 ---
 title: "Matterhorn FOCUS Design Hotel - Luxury Ski Stay in Zermatt"
 date: 2025-03-01
+lastmod: 2026-03-13
 tags: ["Switzerland", "Skiing", "Ski Hotels", "Alps"]
 categories: ["Switzerland", "Skiing"]
 ---
