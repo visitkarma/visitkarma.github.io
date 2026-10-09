@@ -1,8 +1,10 @@
 ---
 title: "Hotel Carlina Review — Ski-In/Ski-Out Luxury in Courchevel 1850"
-date: 2024-03-01
-lastmod: 2026-03-21
-tags: ["France", "Skiing", "Ski Hotels", "Alps"]
+date: 2024-03-02
+lastmod: 2026-10-08
+image: "hotel-exterior-dusk.jpg"
+description: "An honest review of Hotel Carlina, a 5-star ski-in/ski-out hotel in Courchevel 1850: unbeatable location and breakfast, but room and service issues that fell short of the 5-star promise."
+tags: ["France", "Skiing", "Ski Hotels", "Alps", "Courchevel", "Hotel Review"]
 categories: ["French Alps", "Skiing"]
 ---
 
@@ -15,6 +17,8 @@ You can watch our full hotel tour and experience here:
 ## Overview
 
 On our recent ski trip to Courchevel 1850, we stayed at Hotel Carlina, a 5-star ski-in/ski-out property located in one of the most prestigious ski destinations in the world.
+
+![Hotel Carlina at dusk in Courchevel 1850](hotel-exterior-dusk.jpg)
 
 Courchevel is arguably France’s most famous ski resort, known for its luxury hotels, extensive terrain, and seamless alpine experience. Naturally, expectations for a 5-star stay here are extremely high.
 
@@ -30,6 +34,8 @@ The hotel’s location is one of its strongest assets.
 * Direct ski-in/ski-out access to the Bellecôte green piste
 * Easy run down to the main lift and ski school area
 
+![Ski-in/ski-out access to the Bellecôte green piste](ski-in-out-piste.jpg)
+
 For families and convenience, this setup is hard to beat. You can get on the slopes quickly without dealing with long walks or crowded transport.
 
 ---
@@ -42,6 +48,8 @@ The in-house ski shop is excellent.
 * Staff are helpful and efficient
 * Overall seamless experience
 
+![Easy run down to the main lifts and lessons area](slopes-lifts.jpg)
+
 This is exactly the kind of service you expect—and want—when skiing in a destination like Courchevel.
 
 ---
@@ -50,11 +58,15 @@ This is exactly the kind of service you expect—and want—when skiing in a des
 
 We stayed in a family suite with a terrace overlooking the slopes. On paper, this sounds ideal—but execution fell short.
 
+![Our family suite at Hotel Carlina](family-suite.jpg)
+
 **Issues we encountered:**
 
 * Terrace snow was never cleared during the entire stay
 * A persistent leak lasted most of the week
 * Buckets placed in the room detracted significantly from the experience
+
+![Buckets in the room catching a leak — not a 5-star experience](room-buckets.jpg)
 
 These are not minor inconveniences—they’re fundamental service failures, especially for a hotel positioning itself as 5-star.
 
@@ -68,6 +80,8 @@ The hotel offers complimentary shuttle vans around Courchevel 1850, which is use
 * However, availability is inconsistent
 * During peak (February holiday week), vans were often unavailable
 
+![Courchevel 1850 village at night](village-night.jpg)
+
 ---
 
 ## 🍳 Breakfast — ★★★★★
@@ -77,6 +91,8 @@ Breakfast was a standout highlight.
 * Yogurts, smoothies, cereals, pastries
 * Eggs made to order
 * Wide, high-quality selection
+
+![The daily breakfast spread](breakfast-spread.jpg)
 
 We were consistently well-fed and ready to hit the slopes each morning.
 
@@ -90,6 +106,8 @@ The hotel leans into a traditional alpine luxury aesthetic.
 * Relaxing and well-designed shared spaces
 * Slopeside lunch available (not tested during our stay)
 
+![The traditional alpine lounge](lounge.jpg)
+
 ---
 
 ## 🏊 Pool & Spa — ★★☆☆☆
@@ -99,6 +117,8 @@ The pool area looks great but doesn’t deliver in practice:
 * Good size and nice slope views
 * Pool temperature is too cold
 * Hot tub is only warm—not hot
+
+![The pool area with slope views](pool.jpg)
 
 For a ski hotel, this is a major miss. Après-ski recovery is a core part of the experience.
 
@@ -112,6 +132,8 @@ Our departure highlighted operational issues:
 * Driveway was not ploughed after snowfall
 * Cars were buried in snow and struggling to exit
 
+![Cars buried in snow at departure — the driveway was never ploughed](departure-parking.jpg)
+
 Parking costs **€40 + tax per night**, supposedly for a covered garage—making this even more frustrating.
 
 ---
@@ -119,6 +141,8 @@ Parking costs **€40 + tax per night**, supposedly for a covered garage—makin
 ## ⚖️ Final Verdict
 
 Despite a prime location and strong breakfast and ski services, the overall experience fell well below 5-star expectations.
+
+![Bottom line: we would not stay here again](verdict.jpg)
 
 ### Ratings:
 
