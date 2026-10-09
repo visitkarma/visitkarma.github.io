@@ -1,9 +1,12 @@
 ---
 title: "Matterhorn FOCUS Design Hotel - Luxury Ski Stay in Zermatt"
-date: 2025-03-01
-lastmod: 2026-03-13
-tags: ["Switzerland", "Skiing", "Ski Hotels", "Alps"]
+date: 2025-03-09
+lastmod: 2026-10-08
+description: "Our February 2025 stay at the 4-star superior Matterhorn FOCUS Design Hotel in Zermatt — a Monte Rosa suite with terrace, heated outdoor pool and spa, handy ski room with boot warmers, and easy gondola access toward Klein Matterhorn."
+image: "matterhorn-from-gondola.jpg"
 categories: ["Switzerland", "Skiing"]
+tags: ["Switzerland", "Skiing", "Ski Hotels", "Alps"]
+draft: false
 ---
 
 *Visited February 2025 • Zermatt, Switzerland*
@@ -22,9 +25,18 @@ If you’re planning a ski vacation in Zermatt and want somewhere stylish, comfo
 
 One of the unique aspects of visiting Zermatt is that the village is **car-free**. Visitors typically arrive by train, and electric taxis or hotel transfers take you to your accommodation.
 
+![Map showing the hotel's location on the eastern end of Zermatt village, by the Matterhorn Glacier gondola](zermatt-village-map.jpg)
+*The hotel sits on the eastern end of the village, right by the Matterhorn Glacier gondola.*
+
 After arriving at the hotel, the first thing that stood out was the **architecture and design**. The property has a contemporary alpine style with large glass windows, warm wood accents, and terraces that frame the surrounding mountains.
 
+![View of snow-covered Zermatt rooftops and the gondola tower near the hotel](zermatt-village-gondola.jpg)
+*Snow-covered village rooftops with the gondola infrastructure nearby.*
+
 And of course, if you’re lucky with the weather, you’ll immediately spot the **Matterhorn** towering above the village.
+
+![The Matterhorn rising above snowy slopes, seen from the gondola](matterhorn-from-gondola.jpg)
+*The Matterhorn, seen from the gondola on the way up toward Klein Matterhorn.*
 
 ---
 
@@ -40,7 +52,16 @@ Highlights of the room included:
 * A large bathroom with soaking tub and shower
 * Private balcony/terrace with mountain views
 
+![Seating area of the Royal (Monte Rosa) Suite](monte-rosa-suite.jpg)
+*The Royal Suite (Monte Rosa Suite) — spacious seating area with the bedroom beyond.*
+
+![Bathroom with vessel sink and separate WC area](suite-bathroom.jpg)
+*Bathroom with vessel sink — the hotel also offers a kids' bath package.*
+
 After a day on the slopes, it’s hard to beat returning to a warm, comfortable room with views like this.
+
+![Terrace view over snow-covered Zermatt village rooftops](terrace-village-view.jpg)
+*Hard to get bored of this view — the terrace looks out over the village rooftops.*
 
 ---
 
@@ -56,6 +77,9 @@ The buffet included:
 * Fruit and yogurt
 * Coffee, tea, and juices
 
+![Breakfast buffet spread with juices, breads, and fresh fruit](breakfast-buffet.jpg)
+*The breakfast spread — fresh and generous before a day on the mountain.*
+
 ---
 
 ## Ski Room & Gondola Access
@@ -67,7 +91,13 @@ The **ski room** is well organized with:
 * Individual lockers per room
 * Boot warmers
 
+![Ski room with heated boot warmers](ski-room-boot-warmers.jpg)
+*The ski room — heated boot warmers for everybody, another good reason to book this hotel.*
+
 From the hotel, it’s just a **short walk to the Klein Matterhorn gondola**, making it easy to get on the mountain quickly in the morning.
+
+![Inside the Matterhorn Express gondola cabin](matterhorn-express-gondola.jpg)
+*Riding the Matterhorn Express — the hotel gondola connects toward Riffelberg (switch at Furi).*
 
 Zermatt’s ski area connects to **Cervinia in Italy**, offering a massive ski domain with stunning alpine scenery.
 
@@ -85,6 +115,9 @@ The spa area also includes:
 * Steam room
 * Relaxation areas
 
+![Heated outdoor pool with steam rising in the snow](heated-outdoor-pool.jpg)
+*The heated outdoor pool — a perfect way to wind down after each day of skiing.*
+
 It’s the perfect place to unwind after a long day skiing.
 
 ---
@@ -101,6 +134,9 @@ Some local specialties worth trying include:
 
 There are plenty of great dining options within walking distance of the hotel.
 
+![Zermatt village street at night with lit shopfronts](zermatt-village-night.jpg)
+*The village center at night — about a 15-minute walk from the hotel for dinner.*
+
 ---
 
 ## Final Thoughts
@@ -116,9 +152,6 @@ Overall, **Matterhorn FOCUS Design Hotel** is an excellent base for a luxury ski
 * Great breakfast and relaxing spa area
 
 If you’re looking for a comfortable and stylish hotel for a winter trip to Zermatt, this property offers a great balance of **location, design, and relaxation**.
-
----
-
 
 ---
 
