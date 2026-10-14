@@ -86,3 +86,8 @@ It is not for skiers chasing pitch. There is nothing steep here, the video never
 **Commit to the slowness.** The run's best trick is how the landscape keeps changing — sheer rock towers at the top, the boulder-strewn bowl mid-mountain, pines and distant peaks at the bottom — and it is easy to cruise through the transitions without noticing. Next time we would pick three photo stops in advance: the top station with the cliffs behind us, the traverse under the rock walls, and the forest cruise lower down. And we would actually stop.
 
 **Loop it once, then rejoin the circuit.** Gran Paradiso earns its place as a detour, not a repeat lap. One slow scenic run, camera out, poles down, then back onto the Sella Ronda. That is the right dose.
+
+## The ride up is part of the run
+
+Do not treat the chairlift as dead time. The Gran Paradiso lift is a covered chair, and it climbs past rocky outcrops and snow-covered slopes with the big Dolomite cliffs rising right alongside — the scenery starts the moment you board, not just on the way down. Keep the camera out on the ride up too: the look-back views over the piste network spreading out below against the cliffs are some of the best angles of the day, and you cannot get them from the slope itself. A covered chair also means the ride is sheltered, so even on a colder, windier day the ascent is comfortable — one more reason this is a good pick for a mixed-ability family group where some skiers feel the cold more than others.
+
