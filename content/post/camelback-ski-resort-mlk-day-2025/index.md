@@ -1,7 +1,7 @@
 ---
 title: "Camelback Mountain Resort: Great Skiing Conditions on MLK Day 2025 (Ikon Pass near NYC)"
 date: 2025-01-22
-lastmod: 2026-10-08
+lastmod: 2026-10-14
 description: "Skiing Camelback Mountain Resort in the Poconos on MLK Day 2025: groomed greens from Laurel Glade to Turkey Trot, the Black Bear 6 bubble chairlift on a 15°F day, and how the Ikon Pass plays for NYC skiers."
 image: "camelback-turkey-trot-finish.jpg"
 categories: ["Skiing"]
@@ -106,3 +106,27 @@ The day closed on Turkey Trot (Green) — a wide groomed trail under blue sky, s
 - **Bring layers:** 15°F is no joke. The Black Bear 6 bubble chairlift helps, but exposed runs will chill you fast.
 - **Watch the flat spots:** Upper Marc Antony and Little Caesar both have slow flat sections — carry speed into them or be ready to skate.
 - **Green-heavy day:** This was almost entirely green terrain, with only Near East (Blue) as a step up — Camelback is very friendly to beginners and intermediate cruisers.
+
+## How to do it yourself
+
+**When to go.** This video is proof that mid-January in the Poconos can deliver: 15°F, blue sky, and genuinely groomed cold packed powder on MLK Day 2025. The trade is right there in the footage too — the mountain was packed, and the post is honest about why: Camelback is the closest Ikon Pass resort to New York City, so every pass holder within driving distance had the same idea. If you can pick your day, take the conditions without the crowd — the same mid-January cold on an ordinary weekday gets you the grooming and the empty trails. If the holiday is the only day you've got, do what this day did: get up top early and catch Laurel Glade fresh before the crowds fan out, and accept that you'll be sharing every lift line.
+
+**Tickets and passes.** The whole premise of this trip is the Ikon Pass — if you already hold one, Camelback is your no-extra-ticket day trip from the city. If you don't, buy your lift ticket online ahead of time instead of at the window on a holiday morning. A packed mountain on MLK Day is the one day you don't want to be standing in a ticket line on top of the lift lines.
+
+**Getting there from NYC.** Camelback sits in the Poconos, Pennsylvania — the "NYC vicinity" resort, in this post's words — which is exactly why it works as a day trip: drive out in the morning, ski a full day, drive home. The flip side of that convenience is the crowd you see in nearly every frame here, so build in extra time on the road in both directions on a holiday.
+
+## What we'd change next time
+
+**Pick a non-holiday day.** The conditions were excellent, but nearly every run here is shared with a crowd. A regular weekday in the same mid-January window would keep the groomed corduroy and lose the lift lines.
+
+**Ski the flat spots with a plan.** The two honest warnings in this video are both about flats: Upper Marc Antony's "painful slow flat section" partway down, and Little Caesar's "very slow flat exit at the top." Next time we'd carry speed into both — or just route around Little Caesar's flat start and spend that time lapping the Black Bear 6 side instead.
+
+**Warm up on Meadows, not from the top.** Laurel Glade from the summit made a fine first run, but Meadows — the easy green right off the Meadows Chairlift — is the better leg-warmer, and it's where the mixed-ability skiers in your group should start. Save the top-of-the-mountain runs for run two.
+
+**Ride the bubble when the cold bites hardest.** The Black Bear 6's enclosed bubble was the standout of a 15°F day — the one lift in the NYC area that keeps the wind off you while you ride. We'd plan the middle of the day, when the exposed runs have chilled everyone, around laps off that lift.
+
+**Keep the food stop short.** The lodge is a cafeteria with grab-and-go — mozzarella sticks, mac & cheese, hot dog & fries, a veggie burger, all on warming trays. It's a refuel, not a destination. Eat, warm up, get back out on the snow.
+
+## Costs to expect
+
+The video doesn't show a single price tag, so here's the honest accounting of what's actually visible. The lift access on this trip came via the Ikon Pass — that is the entire economic logic of skiing Camelback from NYC. The pass turns it into a day trip with no ticket-window decision at all. Everything else is standard ski-day math. Lunch is cafeteria fare at the lodge: the kind of stop where a family refuels for real money but nothing surprising, and the menu boards in the video (mozzarella sticks, mac & cheese, hot dog & fries, veggie burger) tell you exactly what tier you're in. The one cost lever the post does show is timing — this was MLK Day, with a packed mountain to prove how in-demand it was. So if you're buying day tickets instead of skiing on a pass, expect holiday pricing and buy ahead. No rentals appear anywhere in the video, so there's no read on that; bring your own gear or budget for it separately.
