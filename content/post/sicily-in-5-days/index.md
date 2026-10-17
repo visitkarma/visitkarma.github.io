@@ -1,7 +1,7 @@
 ---
 title: "Sicily in 5 Days: A Fast-Paced Itinerary From Palermo to Taormina"
 date: 2026-08-31
-lastmod: 2026-08-31
+lastmod: 2026-10-17
 description: "A day-by-day 5-day Sicily itinerary covering Palermo, Monreale, Erice, Agrigento, Siracusa, Mount Etna, and Taormina, with hotels, driving notes, and practical tips."
 image: "monreale-cathedral.jpg"
 tags: ["Sicily", "Italy", "Road Trip", "Itinerary", "Palermo", "Taormina"]
@@ -58,7 +58,7 @@ One thing to know: Erice sits high enough that it's **incredibly scenic with low
 
 From the Palermo/Erice side of the island, it's a multi-hour drive south to Agrigento - budget most of a driving day for this leg.
 
-We checked into the **Dimora B&B**, which has direct **temple views** from the property itself - a genuinely special place to stay given what's next door.
+We checked into the [**Dimora B&B**](https://www.youtube.com/watch?v=8DpZ2Zmmnks), which has direct **temple views** from the property itself - a genuinely special place to stay given what's next door.
 
 ![The Dimora B&B, with a Greek temple visible through the trees](agrigento-dimora-bb.jpg)
 
@@ -86,7 +86,7 @@ The drive from Agrigento to Siracusa is a long one, so break it up with lunch ar
 
 ![The historic Antica Dolceria Bonajuto chocolate shop in Modica](modica-chocolate.jpg)
 
-We stayed at the **Ortea Palace Hotel, on Ortigia Island** - the historic heart of Siracusa - in a **palatial, luxurious room** with a marina view.
+We stayed at the [**Ortea Palace Hotel, on Ortigia Island**](https://www.youtube.com/watch?v=tCRYX0A11C0) - the historic heart of Siracusa - in a **palatial, luxurious room** with a marina view.
 
 ![Marina view from a palatial room at the Ortea Palace Hotel](siracusa-room-view.jpg)
 
@@ -123,6 +123,8 @@ Descend Etna and head north to **Taormina** - our tip from the trip is that it's
 In the evening, Taormina's **cobblestone pedestrian stretch has genuinely pretty architecture** and **lots of great restaurants to choose from** - we happened to catch fireworks over the main piazza.
 
 ![Taormina's main piazza at night, with fireworks in the background](taormina-piazza-night.jpg)
+
+In Taormina we stayed at [**Casa Cuseni**](https://www.youtube.com/watch?v=0VXpNIxSx8E) - the luxury hotel made famous by White Lotus.
 
 For beach time, **have your hotel book you a spot at Lido La Pigna** - a beach club with a cable car down from town and a shuttle to bring you back up. **After a fast-paced few days, this is where you relax in crystal-clear water.**
 
