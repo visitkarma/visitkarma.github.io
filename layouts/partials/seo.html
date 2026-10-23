@@ -1,0 +1,93 @@
+{{/* ============================================================================
+  seo.html — Visit Karma SEO partial
+  Drop-in: save as layouts/partials/seo.html in your Hugo site, then add
+      {{ partial "seo.html" . }}
+  inside the <head> of your theme (before </head>).
+
+  Provides, for every page:
+    - meta description  (front matter `description:`, falls back to summary)
+    - canonical URL
+    - Open Graph tags + article:published_time
+    - Twitter Card tags
+    - JSON-LD Article schema
+  Plus, on posts whose category contains "review" (Hotel Review, etc.):
+    - JSON-LD Review schema (add optional `rating: 4.5` and
+      `itemreviewed: "Hotel Name"` to front matter to enrich it)
+
+  Image handling: uses your `image:` front matter field. For page bundles
+  (index.md + image file) it resolves the page resource for an absolute
+  og:image URL; otherwise it falls back to absURL.
+============================================================================= */}}
+
+{{ $desc  := or .Params.description .Summary | plainify | truncate 160 }}
+{{ $title := .Title }}
+{{ $url   := .Permalink }}
+{{ $site  := .Site.Title }}
+{{ $author := or .Site.Params.author $site }}
+
+{{/* Resolve cover image to an absolute URL */}}
+{{ $img := "" }}
+{{ with .Params.image }}
+  {{ with $.Resources.GetMatch . }}
+    {{ $img = .Permalink }}
+  {{ else }}
+    {{ $img = . | absURL }}
+  {{ end }}
+{{ end }}
+
+<!-- Meta description + canonical -->
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ $url }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ $url }}">
+<meta property="og:site_name" content="{{ $site }}">
+{{ with $img }}<meta property="og:image" content="{{ . }}">{{ end }}
+{{ if .IsPage }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="{{ if $img }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+{{ with $img }}<meta name="twitter:image" content="{{ . }}">{{ end }}
+
+<!-- JSON-LD: Article on every content page -->
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ $title | jsonify }},
+  "description": {{ $desc | jsonify }},
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": { "@type": "Person", "name": {{ $author | jsonify }} },
+  "publisher": { "@type": "Organization", "name": {{ $site | jsonify }} },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ $url | jsonify }} }{{ with $img }},
+  "image": {{ . | jsonify }}{{ end }}
+}
+</script>
+{{ end }}
+
+<!-- JSON-LD: Review on review-category posts -->
+{{ $isReview := false }}
+{{ range .Params.categories }}{{ if in (lower .) "review" }}{{ $isReview = true }}{{ end }}{{ end }}
+{{ if and .IsPage $isReview }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": { "@type": "Hotel", "name": {{ (or .Params.itemreviewed $title) | jsonify }} },
+  {{ with .Params.rating }}"reviewRating": { "@type": "Rating", "ratingValue": {{ . }}, "bestRating": 5 },{{ end }}
+  "author": { "@type": "Person", "name": {{ $author | jsonify }} },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "reviewBody": {{ $desc | jsonify }}
+}
+</script>
+{{ end }}
