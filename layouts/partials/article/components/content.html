@@ -1,0 +1,8 @@
+{{ if or (in .Params.categories "Hotel Review") (in .Params.categories "Resort Review") (in .Params.categories "Flight Review") }}
+<p class="disclosure"><em>Not sponsored: a family trip we researched, planned, and paid for ourselves — no free stays, no influencer discounts, no payment for this review.</em></p>
+{{ end }}
+<section class="article-content">
+    <!-- Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 -->
+    {{ $wrappedTable := printf "<div class=\"table-wrapper\">${1}</div>" }}
+    {{ .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $wrappedTable | safeHTML }}
+</section>
