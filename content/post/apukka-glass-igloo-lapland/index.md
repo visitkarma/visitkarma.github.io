@@ -1,9 +1,9 @@
 ---
 title: "Apukka Glass Igloo Hotel, Lapland: Lakeside Sauna and Arctic Bath"
 date: 2026-10-25
-lastmod: 2026-10-25
+lastmod: 2026-10-26
 image: "glass-roof-bed.jpg"
-description: "Apukka Glass Igloo Hotel in Lapland, Finland — our first night in a Lakeside Aurora Cabin Family on the shores of Lake Olkkajärvi, with a traditional lakeside sauna, Arctic bath, and a glass roof made for aurora watching."
+description: "Apukka Glass Igloo Hotel in Lapland, Finland — our night in a Lakeside Aurora Cabin Family on the shores of Lake Olkkajärvi, with a traditional lakeside sauna, Arctic bath, and a glass roof made for sleeping under the stars."
 categories: ["Hotel Review"]
 tags: [lapland, finland, rovaniemi, apukka, glass-igloo, aurora, sauna, family-travel]
 ---
@@ -14,7 +14,7 @@ You can watch our full stay here:
 
 {{< youtube pu9O_0nRzt8 >}}
 
-Our first night at Apukka Resort in Lapland, Finland, was spent in a glass igloo on the shores of a lake — a **Lakeside Aurora Cabin Family** at Apukka Glass Igloo Hotel, booked for the lakeside sauna, the Arctic bath, and the chance to watch the northern lights from bed.
+Our night at Apukka Resort in Lapland, Finland, was spent in a glass igloo on the shores of a lake — a **Lakeside Aurora Cabin Family** at Apukka Glass Igloo Hotel, booked for the lakeside sauna, the Arctic bath, and the chance to sleep under the stars from bed.
 
 Here is our honest look at the cabin, the sauna, the food, and whether it lives up to the dream.
 
@@ -78,33 +78,41 @@ Our younger one, tellingly, enjoyed the sauna more than the lake — the cold pl
 
 ## Dining: Curry Masala and Breakfast
 
-Dinner was at **Curry Masala**, the resort's Indian restaurant — a genuinely nice meal, and a welcome change of pace after a day of sauna and lake air.
+For dinner we drove into **Rovaniemi town for curry at Curry Masala** — a genuinely nice meal, and a welcome change of pace after a day of sauna and lake air.
 
 ![Dinner at Curry Masala](dinner-curry-masala.jpg)
 
 Breakfast the next morning was a generous buffet spread — plenty of fruit, pastries, breads and yogurt to set you up for the day.
 
+![Breakfast the next morning in the main lodge — fruit, pastries, breads and yogurt](breakfast-lodge.jpg)
+
 ---
 
-## Reindeer, Campfire, and the Aurora That Wasn't
+## Reindeer, Campfire, and a Night Under the Stars
 
 One of the resort's charms is that it's a working Lapland property, not just a row of cabins: we went back to check out the **on-property reindeer**, and there's a campfire hut just down from reception for an evening by the fire.
 
 ![The on-property reindeer](reindeer.jpg)
 
-And then, the honest part: **we had no luck with an aurora the night we were there**. In August, the northern lights are rare — the nights are still short and the late sunset is beautiful in its own right, but it's not aurora season. The resort's answer to that is an app with a 7-day aurora forecast and notifications, so you can at least know when to look up.
+After dinner, the evening's real highlight was a walk through the forest — a flat 2km boardwalk trail that ends at the lake. The reward was a stunning, prolonged sunset over still water, the almost-midnight sun hanging low and the lake like glass.
 
-![No aurora on our night — rare in August, but the forecast app tells you when to look up](aurora-forecast.jpg)
+![The reward at the end of the walk: a still lake under a prolonged sunset](still-lake-sunset.jpg)
 
-That's the trade-off of a summer visit in a nutshell: long golden evenings and a warm lake ritual, but the glass roof's main event is a winter prize.
+Back at the campfire hut, marshmallows from the front desk rounded off the walk — a fun reward for the 2km.
+
+Late August isn't aurora season, and we knew that when booking — the draw that night was sleeping under the stars, not the lights. The resort does have an app with a 7-day aurora forecast and notifications, handy when the season is right.
+
+![The resort's aurora forecast app — handy in season; on a late-August night, the stars were the show](aurora-forecast.jpg)
+
+That's a summer visit here in a nutshell: long golden evenings, a warm lake ritual, and a sky full of stars above the glass roof.
 
 ---
 
 ## Practical Tips
 
 - **Book the sauna slot in advance.** The lakeside sauna and Arctic bath run on pre-booked slots — don't leave it to chance.
-- **Come in winter for the aurora.** August gives you late sunsets and warm-weather Lapland, but the northern lights are rare; if the aurora is the reason you're coming, plan for the dark season.
-- **Use the aurora forecast app.** A 7-day Kp-index forecast with notifications means you won't sleep through a display on the nights it does appear.
+- **A note on the aurora.** Late August isn't aurora season — we knew that when booking. If the lights are the reason you're coming, plan for the dark season; if it's the stars, the sauna, and the lake, summer delivers.
+- **The aurora forecast app.** A 7-day forecast with notifications, handy in season so you won't sleep through a display on the nights it does appear.
 - **Families: the Family cabin works.** The kids' nook and the well-stocked sauna cabins make this an easy family stay, not just a couples' bucket-list trip.
 - **Getting home is easy.** Rovaniemi airport (RVN) is small but rapidly expanding, and the resort is a short drive away.
 
@@ -123,7 +131,6 @@ Apukka is one of those places that delivers exactly what it promises — a glass
 
 **Cons**
 
-- **No aurora in August** — the headline act is seasonal, and summer visitors should know that going in
 - The **sauna needs pre-booking**, so spontaneity is limited
 
-Overall, a one-of-a-kind, magical experience we'll always cherish — and one we'd happily repeat in winter, when the glass roof can do what it was really built for.
+Overall, a one-of-a-kind, magical experience we'll always cherish — and one we'd happily repeat, for the stars, the sauna, and the lake.
