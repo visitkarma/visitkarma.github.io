@@ -1,8 +1,10 @@
 ---
 title: "How to Plan a Stress-Free Disney World Trip (Without Overspending)"
 date: 2026-04-08
-lastmod: 2026-04-08
+lastmod: 2026-10-26
 draft: false
+image: "chinese-theatre.jpg"
+description: "How to plan a stress-free Disney World trip without overspending: when to book your hotel, tickets, dining, and Lightning Lane passes, and the tools that saved us time on our family's Orlando trip."
 tags: ["disney", "orlando", "travel planning", "family travel", "theme parks"]
 categories: ["Disney", "Theme Parks"]
 ---
@@ -26,11 +28,17 @@ You *can* splurge on deluxe resorts, but we spend very little time in the room �
 - Access to Lightning Lane booking advantages
 - Can accomodate familes of 4 with a queen and a murphy bed - beds were very comfortable
 - Bus service to Magic Kingdom
+
+![Everything Pop Dining at Disney's Pop Century Resort](everything-pop-dining.jpg)
 - 🚠 **Skyliner access to Hollywood Studios** (huge for Star Wars fans)
 
 We booked on **Priceline** via **TopCashback** which was the best deal I could find at the time (better than booking direct with Disney.
 
 We were able to link the priceline reservation to the MyDisneyExperience app easily.
+
+![The walkway from Disney's All-Star Resort to the Skyliner station](allstar-skyliner-walkway.jpg)
+
+![The Disney Skyliner gondola crossing the lake](skyliner-lake.jpg)
 
 ---
 
@@ -67,6 +75,8 @@ Use the Disney website and **link your hotel reservation** to unlock booking.
   - $100/adult, $50/child
   - Expensive — but worth it
   - 🎆 Reserved viewing area = no crowds, no stress
+
+![Mickey waffle breakfast inside Disney's Hollywood Studios](mickey-waffle.jpg)
 
 ---
 
@@ -111,6 +121,8 @@ Example:
 
 If you’re using a concierge, they’ll handle this for you.
 
+![Hollywood Studios wait times in the Disney app (April 2) — Alien Swirling Saucers at a 40-minute standby line](hollywood-studios-app.jpg)
+
 ---
 
 ### 🤖 Wait Magic (~$35 for 10 days)
@@ -127,6 +139,8 @@ This was one of the **best value tools we used**.
 **Real results:**
 - Moved multiple evening rides into the afternoon
 - Helped us finish Hollywood Studios by **6 PM**
+
+![The Chinese Theatre at Disney's Hollywood Studios, with stroller parking out front](chinese-theatre.jpg)
 
 💡 We used concierge for Magic Kingdom, but **Wait Magic handled Hollywood Studios perfectly** at a fraction of the cost.
 
