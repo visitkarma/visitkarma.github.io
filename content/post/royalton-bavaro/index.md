@@ -5,7 +5,7 @@ lastmod: 2026-09-25
 cover: resort-aerial.jpg
 description: "A detailed review of Royalton Bavaro Punta Cana during Christmas 2025 covering Diamond Club experience, dining, beaches, pools, and entertainment."
 categories: ["Hotel Review"]
-tags: ["Dominican Republic", "Punta Cana", "Royalton Bavaro", "Diamond Club", "Caribbean", "Hotel Review", "Family Travel"]
+tags: ["Dominican Republic", "Punta Cana", "Royalton Bavaro", "Diamond Club", "Caribbean", "Hotel Review", "Family Travel", "Gourmet Marche"]
 ---
 
 {{< youtube xOq5-LuCFC4 >}}

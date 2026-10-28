@@ -5,7 +5,7 @@ lastmod: 2026-10-11
 description: "Kumbhalgarh Fort in Rajasthan's Mewar region — a UNESCO World Heritage hill fort with the world's second-longest wall (after China), the Badal (Cloud) Palace at the top, and spectacular 360-degree views. Our visit notes: the ~3-hour drive from Udaipur, the cobblestone ramp up, and practical tips."
 image: "kumbhalgarh-fort-wall-jungle.jpg"
 categories: ["Travel", "Rajasthan"]
-tags: ["Kumbhalgarh Fort", "Kumbhalgarh", "Rajasthan", "India", "UNESCO", "hill forts"]
+tags: ["Kumbhalgarh Fort", "Kumbhalgarh", "Rajasthan", "India", "UNESCO", "hill forts", "Udaipur"]
 draft: false
 ---
 

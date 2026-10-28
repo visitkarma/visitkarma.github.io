@@ -5,7 +5,7 @@ lastmod: 2026-10-11
 description: "The 15th-century Ranakpur Jain Temple in Rajasthan's Aravali hills — built of locally sourced white marble with 1,444 marble pillars, set in dense forest on the banks of the Magai river. The scenic drive from Kumbhalgarh Fort, the aerial views, and the practical dress rules for entering."
 image: "ranakpur-temple-exterior-shikharas.jpg"
 categories: ["Travel", "Rajasthan"]
-tags: ["Ranakpur", "Jain temple", "Rajasthan", "India", "temples of Rajasthan", "Aravali"]
+tags: ["Ranakpur", "Jain temple", "Rajasthan", "India", "temples of Rajasthan", "Aravali", "Kumbhalgarh Fort"]
 draft: false
 ---
 

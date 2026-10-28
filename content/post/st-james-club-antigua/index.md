@@ -4,7 +4,7 @@ date: 2024-01-06
 lastmod: 2026-09-24
 description: "A Christmas-week review of St James's Club & Villas in St Paul's, Antigua: calm Mamora Bay and ocean-side Coco Beach, beachfront rooms, all-inclusive dining that mostly disappointed, terrific tennis, a tortoise sanctuary, and a surprise Jeff Bezos Koru sighting."
 image: "mamora-bay-aerial.jpg"
-tags: ["Antigua", "Caribbean", "Resort Review", "All Inclusive", "Beaches", "Tennis"]
+tags: ["Antigua", "Caribbean", "Resort Review", "All Inclusive", "Beaches", "Tennis", "Mamora Bay", "Coco Beach", "Costco Travel"]
 categories: ["Travel", "Caribbean", "Resort Review"]
 ---
 

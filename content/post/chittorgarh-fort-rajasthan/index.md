@@ -5,7 +5,7 @@ lastmod: 2026-10-11
 description: "Chittorgarh Fort in Rajasthan — 180 meters above the city and spread across nearly 700 acres. A walkthrough of the rickshaw ride up, the gates to Ram Pole, the Vijay Stambha, carved temples, Padmini's Palace, Bhimlat Kund, and Kirti Stambha."
 image: "chittorgarh-fort-lush-aerial.jpg"
 categories: ["Travel", "Rajasthan"]
-tags: ["Chittorgarh Fort", "Chittorgarh", "Rajasthan", "India", "hill forts", "Vijay Stambha"]
+tags: ["Chittorgarh Fort", "Chittorgarh", "Rajasthan", "India", "hill forts", "Vijay Stambha", "Kirti Stambha", "Padmini's Palace"]
 draft: false
 ---
 

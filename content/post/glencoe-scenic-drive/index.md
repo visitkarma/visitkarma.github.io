@@ -5,7 +5,7 @@ lastmod: 2026-10-15
 description: "Two videos, one legendary drive: Glencoe's A82 corridor from the Three Sisters viewpoint to the panoramic restaurant and ski area, the Rest and Be Thankful pass, and the lochside run south — Scotland's most photographed stretch of road."
 image: "glencoe-scenic-drive-aonb-three-sisters-valley-cover.jpg"
 categories: ["Travel", "Scotland"]
-tags: ["Scotland", "Glencoe", "Scenic Drive", "Highlands"]
+tags: ["Scotland", "Glencoe", "Scenic Drive", "Highlands", "Three Sisters", "Rest and Be Thankful"]
 draft: false
 ---
 

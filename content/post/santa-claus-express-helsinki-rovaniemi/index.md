@@ -4,7 +4,7 @@ date: 2026-10-18
 lastmod: 2026-10-18
 description: "Riding the Santa Claus Express overnight sleeper train from Helsinki to Rovaniemi: upper en-suite cabin tour (188 EUR total), the restaurant car, and what the Lapland journey is actually like."
 image: "sleeper-cabin.jpg"
-tags: ["Finland", "Lapland", "Rovaniemi", "Helsinki", "Train Travel", "Sleeper Train"]
+tags: ["Finland", "Lapland", "Rovaniemi", "Helsinki", "Train Travel", "Sleeper Train", "Arctic Circle"]
 categories: ["Travel", "Finland"]
 ---
 

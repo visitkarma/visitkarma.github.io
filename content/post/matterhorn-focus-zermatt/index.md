@@ -5,7 +5,7 @@ lastmod: 2026-10-08
 description: "Our February 2025 stay at the 4-star superior Matterhorn FOCUS Design Hotel in Zermatt — a Monte Rosa suite with terrace, heated outdoor pool and spa, handy ski room with boot warmers, and easy gondola access toward Klein Matterhorn."
 image: "matterhorn-from-gondola.jpg"
 categories: ["Switzerland", "Skiing"]
-tags: ["Switzerland", "Skiing", "Ski Hotels", "Alps"]
+tags: ["Switzerland", "Skiing", "Ski Hotels", "Alps", "Zermatt", "Matterhorn", "Klein Matterhorn"]
 draft: false
 ---
 

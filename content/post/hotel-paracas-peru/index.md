@@ -4,7 +4,7 @@ date: 2023-04-18
 lastmod: 2026-10-09
 image: "cover-pool.jpg"
 description: "An honest look at Hotel Paracas, a Luxury Collection (Marriott) resort on Peru's desert coast — stunning pools and grounds, a non-swimming beach, and a great base for the Nazca Lines and Ballestas Islands."
-tags: ["Hotel Review", "Peru", "Paracas", "Luxury Collection", "Marriott"]
+tags: ["Hotel Review", "Peru", "Paracas", "Luxury Collection", "Marriott", "Ballestas Islands", "Nazca Lines"]
 categories: ["Hotel Review"]
 ---
 

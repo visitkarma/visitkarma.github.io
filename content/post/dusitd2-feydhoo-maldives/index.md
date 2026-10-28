@@ -5,7 +5,7 @@ lastmod: 2026-10-12
 image: "overwater-villas-aerial.jpg"
 description: "An honest review of DusitD2 Feydhoo Maldives: a luxury all-inclusive resort with overwater villas, direct lagoon access, five restaurants, and superb snorkeling — a top-tier Maldives escape."
 categories: ["Hotel Review", "Maldives", "Beach Resorts", "All-Inclusive"]
-tags: ["DusitD2", "Maldives", "Luxury Travel", "Overwater Villa", "Snorkeling", "All-Inclusive"]
+tags: ["DusitD2", "Maldives", "Luxury Travel", "Overwater Villa", "Snorkeling", "All-Inclusive", "Feydhoo"]
 ---
 
 *Visited August 2025 • Feydhoo, Maldives*

@@ -5,7 +5,7 @@ lastmod: 2026-10-11
 description: "A day trip to Amer Fort just north of Jaipur — one of Rajasthan's UNESCO-listed hill forts. Getting there by jeep, the Panna Meena ka Kund stepwell, Diwan-i-Khaas, the Sheesh Mahal's Belgian mirrors, lunch at 1135 AD, the evening sound and light show, and Jaigarh Fort with the Jaivana cannon."
 image: "amer-fort-aerial.jpg"
 categories: ["Travel", "Rajasthan"]
-tags: ["Amer Fort", "Jaipur", "Jaigarh Fort", "Rajasthan", "India", "UNESCO", "hill forts"]
+tags: ["Amer Fort", "Jaipur", "Jaigarh Fort", "Rajasthan", "India", "UNESCO", "hill forts", "Sheesh Mahal", "Maota Lake", "Sound and Light Show"]
 draft: false
 ---
 

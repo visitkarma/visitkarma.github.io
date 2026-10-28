@@ -5,7 +5,7 @@ lastmod: 2026-10-09
 description: "A short video review of Le Méridien Jaipur Resort & Spa in Kukas — a 5-star Marriott resort near Amer Fort, where a Bonvoy Platinum upgrade landed a ground-floor villa with four-poster beds, a forest-feel bathroom, and a standout breakfast spread with live music."
 image: "le-meridien-jaipur-pool-cover.jpg"
 categories: ["Hotel Review"]
-tags: ["Le Meridien", "Jaipur", "Hotel Review", "India", "Marriott", "Amer Fort", "Rajasthan"]
+tags: ["Le Meridien", "Jaipur", "Hotel Review", "India", "Marriott", "Amer Fort", "Rajasthan", "Kukas"]
 draft: false
 ---
 

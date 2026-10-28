@@ -3,6 +3,7 @@ title: "One Day in Kyoto: Bamboo Groves, Golden Pavilion & Fushimi Inari"
 date: 2026-10-05
 lastmod: 2026-10-05
 categories: ["Itinerary"]
+tags: ["Kyoto", "Arashiyama", "Fushimi Inari", "Golden Pavilion", "Kiyomizu-dera"]
 image: kinkakuji-golden-pavilion.jpg
 draft: false
 ---

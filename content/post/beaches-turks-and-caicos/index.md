@@ -5,7 +5,7 @@ lastmod: 2026-10-08
 image: beach-palms.jpg
 description: "A video tour of Beaches Turks and Caicos: the phenomenal water park with tube slides, the FlowRider surf simulator, a winding lazy river, Hobie Cat sails off Grace Bay, and the resort's pools and swim-up bar."
 categories: ["Hotel Review"]
-tags: ["Caribbean", "Turks and Caicos", "Grace Bay", "Beaches Turks and Caicos", "All-Inclusive", "Water Park", "Family"]
+tags: ["Caribbean", "Turks and Caicos", "Grace Bay", "Beaches Turks and Caicos", "All-Inclusive", "Water Park", "Family", "FlowRider", "Lazy River"]
 ---
 
 {{< youtube WklFYoFEGM4 >}}

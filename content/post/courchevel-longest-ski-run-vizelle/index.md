@@ -5,7 +5,7 @@ lastmod: 2026-10-09
 description: "A 17-minute top-to-bottom POV of Courchevel's longest easy run: ride the Vizelle gondola, then ski Lac Creux to Pralong and Bellecote all the way down to Courchevel 1850 — with route junctions, Mont Blanc views, and the altiport's Cap Horn restaurant along the way."
 image: "courchevel-vizelle-top-cover.jpg"
 categories: ["Skiing"]
-tags: ["Courchevel", "France", "Les Trois Vallées", "Skiing", "Blue Run", "Green Run"]
+tags: ["Courchevel", "France", "Les Trois Vallées", "Skiing", "Blue Run", "Green Run", "Lac Creux", "Bellecote", "Vizelle"]
 draft: false
 ---
 

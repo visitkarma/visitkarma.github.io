@@ -5,7 +5,7 @@ lastmod: 2026-10-11
 description: "Mehrangarh Fort towers over Jodhpur, Rajasthan's Blue City — a 15th-century hill fort with mesmerizing rampart views, a Hall of Mirrors, stained-glass palace halls, and courtyard architecture the video compares to Granada's Alhambra."
 image: "mehrangarh-fort-blue-city-aerial.jpg"
 categories: ["Travel", "Rajasthan"]
-tags: ["Mehrangarh Fort", "Jodhpur", "Rajasthan", "India", "hill forts"]
+tags: ["Mehrangarh Fort", "Jodhpur", "Rajasthan", "India", "hill forts", "Blue City"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ lastmod: 2026-09-25
 cover: waterpark-aerial.jpg
 description: "Christmas 2022 at Royalton Splash Punta Cana: the water park, a fun (but not calm) beach, pool foam party, water slides, kids club activities, and evening entertainment."
 categories: ["Hotel Review"]
-tags: ["Dominican Republic", "Punta Cana", "Royalton Splash", "Caribbean", "Hotel Review", "Family Travel"]
+tags: ["Dominican Republic", "Punta Cana", "Royalton Splash", "Caribbean", "Hotel Review", "Family Travel", "Water Park", "Kids Club"]
 ---
 
 {{< youtube 3R8pep8qV8I >}}

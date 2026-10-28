@@ -5,7 +5,7 @@ lastmod: 2026-10-04
 image: resort-aerial.jpg
 description: "Review of Esperanza Lake Resort near Trakai, Lithuania — a Marriott Design Hotel with a luxury spa, booked on points. Room tour, dining at Mizu and Olea, the spa, and platinum perks."
 categories: ["Hotel Review"]
-tags: ["Lithuania", "Trakai", "Esperanza Lake Resort", "Marriott", "Design Hotels", "Spa", "Hotel Review", "Europe", "Family Travel"]
+tags: ["Lithuania", "Trakai", "Esperanza Lake Resort", "Marriott", "Design Hotels", "Spa", "Hotel Review", "Europe", "Family Travel", "Riga"]
 ---
 
 {{< youtube GlCk-W_xbhQ >}}

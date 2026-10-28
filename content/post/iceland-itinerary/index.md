@@ -5,7 +5,7 @@ lastmod: 2026-10-05
 image: iceland-map.jpg
 description: "A 3-night Iceland itinerary: driving the South Coast to Seljalandsfoss and Skogafoss, Reynisfjara black sand beach, Jokulsarlon glacier lagoon, and the Golden Circle — with day-by-day stops and tips."
 categories: ["Itinerary"]
-tags: ["Iceland", "South Coast", "Golden Circle", "Ring Road", "Waterfalls", "Itinerary", "Road Trip", "Europe"]
+tags: ["Iceland", "South Coast", "Golden Circle", "Ring Road", "Waterfalls", "Itinerary", "Road Trip", "Europe", "Reykjavik", "Glacier Lagoon", "Secret Lagoon", "Thingvellir National Park"]
 ---
 
 {{< youtube zePXBhSDYq0 >}}

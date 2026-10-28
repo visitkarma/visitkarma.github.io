@@ -5,7 +5,7 @@ lastmod: 2026-10-05
 image: horseshoe-bend-sunrise.jpg
 description: "A 4-day Page, Arizona itinerary: Horseshoe Bend at sunrise, a Monument Valley day trip, Upper Antelope Canyon, Wahweap Overlook, Buckskin Gulch, and a Grand Canyon option — with tips on tours, timing, and where to stay."
 categories: ["Itinerary"]
-tags: ["Arizona", "Page", "Antelope Canyon", "Horseshoe Bend", "Monument Valley", "Utah", "Itinerary", "Road Trip", "USA"]
+tags: ["Arizona", "Page", "Antelope Canyon", "Horseshoe Bend", "Monument Valley", "Utah", "Itinerary", "Road Trip", "USA", "Buckskin Gulch", "Grand Canyon"]
 ---
 
 {{< youtube RuB5SQ6duNQ >}}

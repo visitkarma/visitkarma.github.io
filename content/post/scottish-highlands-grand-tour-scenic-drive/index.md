@@ -5,7 +5,7 @@ lastmod: 2026-10-15
 description: "A 10-minute music-only drive through the Scottish Highlands — the Grand Tour route via the A9, A836, A838 and over Kylesku Bridge — presented as a scenic-drive alternative to the NC500. No commentary, just the road."
 image: "scottish-highlands-grand-tour-scenic-drive-kylesku-bridge-cover.jpg"
 categories: ["Travel", "Scotland"]
-tags: ["Scotland", "Scottish Highlands", "Scenic Drive", "NC500", "Road Trip"]
+tags: ["Scotland", "Scottish Highlands", "Scenic Drive", "NC500", "Road Trip", "Kylesku Bridge"]
 draft: false
 ---
 

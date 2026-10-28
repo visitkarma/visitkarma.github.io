@@ -4,7 +4,7 @@ date: 2024-03-02
 lastmod: 2026-10-08
 image: "hotel-exterior-dusk.jpg"
 description: "An honest review of Hotel Carlina, a 5-star ski-in/ski-out hotel in Courchevel 1850: unbeatable location and breakfast, but room and service issues that fell short of the 5-star promise."
-tags: ["France", "Skiing", "Ski Hotels", "Alps", "Courchevel", "Hotel Review"]
+tags: ["France", "Skiing", "Ski Hotels", "Alps", "Courchevel", "Hotel Review", "Courchevel 1850"]
 categories: ["French Alps", "Skiing"]
 ---
 
