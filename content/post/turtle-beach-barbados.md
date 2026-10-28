@@ -3,7 +3,7 @@ title: "Turtle Beach Barbados Review – Marriott All-Inclusive on the South Coa
 date: 2024-07-01
 lastmod: 2026-03-14
 categories: [Barbados, Beach Resorts, Cricket, All-Inclusive]
-tags: [barbados, marriott, all-inclusive, turtle-beach, luxury-travel]
+tags: [barbados, marriott, all-inclusive, turtle-beach, luxury-travel, south-coast, crystal-cove, hurricane-beryl]
 ---
 
 {{< youtube hPDGtc2ssQM >}}

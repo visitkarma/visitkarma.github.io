@@ -5,7 +5,7 @@ lastmod: 2026-10-26
 image: "hero-drone.jpg"
 description: "Apukka Glass Igloo Hotel in Lapland, Finland — our night in a Lakeside Aurora Cabin Family on the shores of Lake Olkkajärvi, with a traditional lakeside sauna, Arctic bath, and a glass roof made for sleeping under the stars."
 categories: ["Hotel Review"]
-tags: [lapland, finland, rovaniemi, apukka, glass-igloo, aurora, sauna, family-travel]
+tags: [lapland, finland, rovaniemi, apukka, glass-igloo, aurora, sauna, family-travel, lake-olkkajärvi, arctic-bath]
 ---
 
 *Visited August 2026 • Apukka Resort, Rovaniemi, Lapland, Finland*

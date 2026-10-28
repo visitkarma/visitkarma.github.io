@@ -5,7 +5,7 @@ lastmod: 2026-10-08
 description: "A short, honest video review of the Park Tower Knightsbridge — a Marriott Luxury Collection hotel in London with solid views and a great Knightsbridge location, but little that feels truly luxury: one bedside outlet, no coffee maker, and no outlets at the desk."
 image: "park-tower-executive-room.jpg"
 categories: ["Travel", "Hotel Review", "England"]
-tags: ["London", "Knightsbridge", "Marriott", "Luxury Collection", "Hotel Review", "England"]
+tags: ["London", "Knightsbridge", "Marriott", "Luxury Collection", "Hotel Review", "England", "Hyde Park", "Harvey Nichols"]
 draft: false
 ---
 

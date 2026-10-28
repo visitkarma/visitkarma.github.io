@@ -5,7 +5,7 @@ lastmod: 2026-10-15
 description: "Drone footage of the Jacobite steam train — the real-life Hogwarts Express — crossing Glenfinnan Viaduct in the Scottish Highlands, plus the viaduct's Harry Potter filming history and practical tips: arrive an hour before the train, and watch from the meadow or up the hill."
 image: "scotland-hogwarts-express-glenfinnan-viaduct-cover.jpg"
 categories: ["Travel", "Scotland"]
-tags: ["Scotland", "Glenfinnan Viaduct", "Hogwarts Express", "Jacobite Train", "Highlands"]
+tags: ["Scotland", "Glenfinnan Viaduct", "Hogwarts Express", "Jacobite Train", "Highlands", "Harry Potter"]
 draft: false
 ---
 

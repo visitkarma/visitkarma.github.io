@@ -4,7 +4,7 @@ date: 2023-07-12
 lastmod: 2026-10-09
 image: "infinity-pool.jpg"
 description: "An honest review of Hotel More in Dubrovnik, Croatia: a 2-bedroom Villa Malo More stay with a kitchenette, pools in all 3 buildings, a rocky beach you can jump into, and excellent breakfast — highly recommended for families."
-tags: ["Hotel Review", "Croatia", "Dubrovnik", "Luxury Hotel"]
+tags: ["Hotel Review", "Croatia", "Dubrovnik", "Luxury Hotel", "Villa Malo More", "Cave Bar"]
 categories: ["Hotel Review"]
 ---
 

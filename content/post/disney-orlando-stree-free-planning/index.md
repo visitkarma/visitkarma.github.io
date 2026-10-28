@@ -5,7 +5,7 @@ lastmod: 2026-10-26
 draft: false
 image: "chinese-theatre.jpg"
 description: "How to plan a stress-free Disney World trip without overspending: when to book your hotel, tickets, dining, and Lightning Lane passes, and the tools that saved us time on our family's Orlando trip."
-tags: ["disney", "orlando", "travel planning", "family travel", "theme parks"]
+tags: ["disney", "orlando", "travel planning", "family travel", "theme parks", "lightning lane", "magic kingdom", "hollywood studios", "pop century", "skyliner"]
 categories: ["Disney", "Theme Parks"]
 ---
 

@@ -5,7 +5,7 @@ lastmod: 2026-10-09
 description: "We rented a black Tesla Model Y from Europcar and drove Iceland's Ring Road — charging on Tesla Superchargers, orange ON fast chargers at tourist stops, and slow Level 1 overnight charging in the cold. Here's how EV road-tripping in Iceland actually works."
 image: "on-charger-glacier-lagoon.jpg"
 categories: ["Travel", "Travel Tips"]
-tags: ["Tesla", "Iceland", "EV Road Trip", "Model Y", "Ring Road", "Europcar", "Charging"]
+tags: ["Tesla", "Iceland", "EV Road Trip", "Model Y", "Ring Road", "Europcar", "Charging", "Seljalandsfoss", "Reynisfjara", "Gullfoss", "Geysir", "Hallgrímskirkja"]
 draft: false
 ---
 

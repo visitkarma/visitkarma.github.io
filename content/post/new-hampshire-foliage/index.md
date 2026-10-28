@@ -3,6 +3,7 @@ title: "New Hampshire's Most Scenic Fall Foliage Driving Loop"
 date: 2024-10-12
 lastmod: 2026-10-05
 categories: ["Itinerary"]
+tags: ["New Hampshire", "Kancamagus Scenic Byway", "Franconia Notch", "Mount Washington", "Crawford Notch"]
 image: fall-foliage-aerial.jpg
 draft: false
 ---

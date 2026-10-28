@@ -4,7 +4,7 @@ date: 2025-04-26
 lastmod: 2026-10-09
 image: "lake-ashi-morning.jpg"
 description: "An honest review of RakutenSTAY Fujimi Terrace in Hakone: a 2-bed lakeside apartment with a private terrace onsen, sauna, and foot bath overlooking Lake Ashi and Mt. Fuji — a perfect family base for exploring Hakone, especially with a car."
-tags: ["Hotel Review", "Japan", "Hakone", "Lake Ashi"]
+tags: ["Hotel Review", "Japan", "Hakone", "Lake Ashi", "Hakone Shrine", "Fujimi Terrace"]
 categories: ["Hotel Review"]
 ---
 

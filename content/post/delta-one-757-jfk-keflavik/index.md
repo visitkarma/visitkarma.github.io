@@ -5,7 +5,7 @@ lastmod: 2026-10-09
 description: "A short, honest video review of Delta One business class on the narrowbody 757 from New York JFK to Keflavik, Iceland: lie-flat seats with limited storage and a basic amenity kit, plus the full KEF arrival walk-through and an Europcar Tesla Model Y pickup."
 image: "delta-one-757-jfk-cover.jpg"
 categories: ["Flight Review"]
-tags: ["Delta One", "Business Class", "Delta Air Lines", "JFK", "Keflavik", "Iceland", "Boeing 757", "Europcar", "Car Rental"]
+tags: ["Delta One", "Business Class", "Delta Air Lines", "JFK", "Keflavik", "Iceland", "Boeing 757", "Europcar", "Car Rental", "Delta Sky Club", "JFK Terminal 4"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: 2023-02-28
 lastmod: 2026-10-09
 image: "hotel-aerial-snow.jpg"
 description: "An honest review of Hotel Granbaita, a 5-star hotel in Selva di Val Gardena, Dolomites: a prime spot near the Kinderland ski area, a heated indoor/outdoor pool, and standout food — here's how it holds up."
-tags: ["Hotel Review", "Italy", "Dolomites", "Val Gardena", "Ski Hotels"]
+tags: ["Hotel Review", "Italy", "Dolomites", "Val Gardena", "Ski Hotels", "Selva di Val Gardena"]
 categories: ["Hotel Review"]
 ---
 

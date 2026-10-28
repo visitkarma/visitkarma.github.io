@@ -5,7 +5,7 @@ lastmod: 2026-10-11
 description: "A drone flyover of Udaipur's Lake Pichola: the City Palace and Shiv Niwas along the water, the Jagmandir island palace, the Taj Lake Palace floating mid-lake, the domed Oberoi Udai Vilas on the shore, and the Lal Ghat lights at night."
 image: "lake-pichola-taj-lake-palace.jpg"
 categories: ["Travel", "Rajasthan"]
-tags: ["Lake Pichola", "Udaipur", "Taj Lake Palace", "Jagmandir", "Rajasthan", "India"]
+tags: ["Lake Pichola", "Udaipur", "Taj Lake Palace", "Jagmandir", "Rajasthan", "India", "City Palace", "Oberoi Udai Vilas"]
 draft: false
 ---
 

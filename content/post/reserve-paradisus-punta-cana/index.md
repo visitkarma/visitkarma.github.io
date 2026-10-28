@@ -5,7 +5,7 @@ lastmod: 2026-10-08
 image: beach.jpg
 description: "Family vacation review of The Reserve at Paradisus Punta Cana, Dominican Republic: the kiddie water park, a pool inflatable obstacle course, kids' activities, Cirque-style acrobat shows, and reservable dinners including teppanyaki."
 categories: ["Hotel Review"]
-tags: ["Caribbean", "Dominican Republic", "Punta Cana", "Paradisus", "Reserve at Paradisus", "All-Inclusive", "Family"]
+tags: ["Caribbean", "Dominican Republic", "Punta Cana", "Paradisus", "Reserve at Paradisus", "All-Inclusive", "Family", "Water Park", "Teppanyaki"]
 ---
 
 {{< youtube oWBcnOnWbwY >}}

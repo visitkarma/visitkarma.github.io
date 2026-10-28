@@ -4,7 +4,7 @@ date: 2025-04-17
 lastmod: 2026-10-09
 image: "togetsu-kyo-bridge.jpg"
 description: "An honest review of Suiran, a Luxury Collection hotel in Kyoto's Arashiyama district: a traditional Japanese-style room with a rare in-room hot spring bath, complimentary evening champagne, and unbeatable access to bamboo groves and temples."
-tags: ["Hotel Review", "Japan", "Kyoto", "Arashiyama", "Luxury Collection", "Marriott"]
+tags: ["Hotel Review", "Japan", "Kyoto", "Arashiyama", "Luxury Collection", "Marriott", "Ryokan", "Onsen"]
 categories: ["Hotel Review"]
 ---
 

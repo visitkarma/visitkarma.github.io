@@ -4,7 +4,7 @@ date: 2026-02-26
 lastmod: 2026-10-08
 image: "rooftop-pool.jpg"
 description: "Review of Die Berge Lifestyle-Hotel in Sölden, Austria: a modern four-star ski hotel with a heated rooftop pool, great breakfast, and a central location near the lifts."
-tags: ["Austria", "Skiing", "Ski Hotels", "Alps"]
+tags: ["Austria", "Skiing", "Ski Hotels", "Alps", "Sölden", "Ötztal", "Die Berge"]
 categories: ["Austria", "Skiing"]
 ---
 {{< youtube ADAGm-Umick >}}
