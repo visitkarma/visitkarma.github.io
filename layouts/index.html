@@ -13,6 +13,11 @@
 */}}
 {{ $pages := where .Site.RegularPages "Section" "in" (slice "p" "post") }}
 {{ $pages = $pages.ByDate.Reverse }}
+{{/* Pinned guides: posts with pinned: true stay at the top of the homepage
+   regardless of date, sorted by title. New pinned posts appear here automatically. */}}
+{{ $pinned := where $pages "Params.pinned" true }}
+{{ $pinned = $pinned.ByTitle }}
+
 {{ $featured := index $pages 0 }}
 
 {{/* ---- Collections: title, blurb, matching categories/tags, "view all" link ---- */}}
@@ -147,6 +152,7 @@
   <div class="wrap">
     <a class="brand" href="{{ "/" | relURL }}">Visit<span>Karma</span></a>
     <nav class="main">
+      <a href="#pinned">Pinned</a>
       <a href="#collections">Collections</a>
       <a href="#destinations">Destinations</a>
       <a href="#latest">Latest</a>
@@ -173,6 +179,26 @@
       <a class="btn ghost" href="https://www.youtube.com/@visitkarma" target="_blank" rel="noopener">▶ Watch on YouTube</a>
     </div>
   </div>
+
+  <!-- PINNED GUIDES -->
+  {{ if gt (len $pinned) 0 }}
+  <section class="block" id="pinned" style="padding-top:0">
+    <div class="sec-head"><h2>Pinned guides</h2></div>
+    <p style="color:var(--muted);margin-top:0">Reference lists we keep at the top of the homepage — start here for the card hotel programs.</p>
+    <div class="grid">
+      {{ range $pinned }}
+        {{ $pg := . }}
+        <a class="card" href="{{ $pg.RelPermalink }}">
+          <div class="body">
+            <h3>{{ $pg.Title }}</h3>
+            <p style="color:var(--muted);font-size:.92rem;margin:0">{{ $pg.Params.description | default ($pg.Summary | truncate 160) }}</p>
+            <div class="meta">Pinned guide</div>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
 
   <!-- FEATURED -->
   {{ with $featured }}
