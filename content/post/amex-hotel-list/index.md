@@ -46,7 +46,10 @@ A note for East Africa travellers: unlike The Edit, which has no hotels in Kenya
 <p><small>Tip: the country menu also works as a jump menu — pick a country to see only its hotels. With JavaScript off, the full lists below still show; only the filtering needs JavaScript.</small></p>
 </div>
 <script>
-(function () {
+/* NOTE: this script sits above the tables in the post, so it must wait for
+   DOMContentLoaded — otherwise it runs before the table rows exist and the
+   filters find nothing (the bug reported Nov 2, 2026). */
+document.addEventListener('DOMContentLoaded', function () {
   var search = document.getElementById('hotel-search');
   var regionSel = document.getElementById('hotel-region');
   var countrySel = document.getElementById('hotel-country');
@@ -107,7 +110,7 @@ A note for East Africa travellers: unlike The Edit, which has no hotels in Kenya
   regionSel.addEventListener('change', apply);
   countrySel.addEventListener('change', apply);
   apply();
-})();
+});
 </script>
 
 ## North America
