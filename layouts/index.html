@@ -250,7 +250,7 @@
         {{ $r := . }}{{ $total := 0 }}{{ $cover := "" }}{{ $chips := slice }}
         {{ range $r.countries }}
           {{ $slug := . }}
-          {{ with index $.Site.Taxonomies.tags $slug }}
+          {{ with index $.Site.Taxonomies.tags (replace $slug "-" " ") }}
             {{ $n := len .Pages }}{{ $total = add $total $n }}
             {{ $first := index .Pages.ByDate.Reverse 0 }}
             {{ if and (eq $cover "") $first.Params.image }}
