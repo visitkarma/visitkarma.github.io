@@ -8,6 +8,7 @@ description: "The full list of The Edit by Chase Travel hotels — 1,528 propert
 categories: ["Travel Tips"]
 tags: [chase, sapphire-reserve, the-edit, hotel-credit, hotel-list]
 pinned: true
+toc: false
 ---
 
 ## What The Edit is

@@ -8,6 +8,7 @@ description: "The American Express Fine Hotels + Resorts and The Hotel Collectio
 categories: ["Travel Tips"]
 tags: [amex, fine-hotels-resorts, hotel-collection, hotel-list]
 pinned: true
+toc: false
 ---
 
 ## What these two programs are
