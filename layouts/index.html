@@ -304,7 +304,10 @@
     <div class="grid">
       {{ range $pinned }}
         {{ $pg := . }}
+        {{ $psrc := "" }}
+        {{ with $pg.Params.image }}{{ $r := $pg.Resources.GetMatch . }}{{ if $r }}{{ $psrc = $r.RelPermalink }}{{ else }}{{ $psrc = . }}{{ end }}{{ end }}
         <a class="card" href="{{ $pg.RelPermalink }}">
+          {{ if $psrc }}<div class="img" style="background-image:url('{{ $psrc }}')"></div>{{ end }}
           <div class="body">
             <h3>{{ $pg.Title }}</h3>
             <p style="color:var(--muted);font-size:.92rem;margin:0">{{ $pg.Params.description | default ($pg.Summary | truncate 160) }}</p>
