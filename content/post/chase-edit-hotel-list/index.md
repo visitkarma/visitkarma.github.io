@@ -4,7 +4,7 @@ date: 2026-11-02
 lastmod: 2026-11-11
 slug: "chase-the-edit-hotel-list"
 image: "togetsu-kyo-bridge.jpg"
-description: "The full list of The Edit by Chase Travel hotels — 1,526 properties verified against Chase Travel's own listing on November 11, 2026, in a single searchable, filterable table — plus how the Sapphire Reserve hotel credits and perks work."
+description: "The full list of The Edit by Chase Travel hotels — 1,534 properties verified against Chase Travel's own listing on November 11, 2026, in a single searchable, filterable table — plus how the Sapphire Reserve hotel credits and perks work."
 categories: ["Travel Tips"]
 tags: [chase, sapphire-reserve, the-edit, hotel-credit, hotel-list]
 pinned: true
@@ -32,9 +32,9 @@ Use the search box to find a hotel, city, or country, or pick a region or countr
 
 ## The list below
 
-This is every Edit hotel in Chase Travel's own listing, captured November 11, 2026: **1,526 hotels in 92 countries**, in a single table with Region and Country columns, in region order. Every entry below carries small print reading "Verified Nov 11, 2026" — it was confirmed present in Chase Travel's own "Stays — The Edit" listing on that date. The listing page itself shows 1,534 properties; 8 tiles had not loaded when the page was captured, so those 8 properties could not be identified and are not in this list.
+This is every Edit hotel in Chase Travel's own listing, captured November 11, 2026: **1,534 hotels in 92 countries**, in a single table with Region and Country columns, in region order. Every entry below carries small print reading "Verified Nov 11, 2026" — it was confirmed present in Chase Travel's own "Stays — The Edit" listing on that date. Eight tiles on the listing page had not loaded their text when captured; all eight are Washington, D.C. hotels, identified from their tile photos and their position in the list, and they are included and marked verified like the rest.
 
-Hotel membership changes through the year — hotels join and leave — so confirm a hotel is still in The Edit in Chase Travel before you plan around it. This page is a reference list, not a booking site, and we are not paid by Chase or any hotel on it. The list was previously compiled from a third-party source (November 2, 2026) and was re-synced to Chase's own listing on November 11, 2026, which added 24 hotels, removed 26, and updated 5 names.
+Hotel membership changes through the year — hotels join and leave — so confirm a hotel is still in The Edit in Chase Travel before you plan around it. This page is a reference list, not a booking site, and we are not paid by Chase or any hotel on it. The list was previously compiled from a third-party source (November 2, 2026) and was re-synced to Chase's own listing on November 11, 2026, which added 24 hotels, removed 18, and updated 5 names.
 
 <div class="hotel-filter">
 <p><label>Search hotels, cities or countries: <input type="search" id="hotel-search" placeholder="e.g. Kyoto, Four Seasons, Italy"></label></p>
@@ -367,7 +367,15 @@ document.addEventListener('DOMContentLoaded', function () {
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Riggs Washington DC<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Salamander Washington DC<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Sofitel Washington DC Lafayette Square<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The Dupont Circle Hotel<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The Hay-Adams<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The Jefferson<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The LINE DC<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The Ritz-Carlton Georgetown, Washington, D.C.<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The Ritz-Carlton, Washington, D.C.<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The St. Regis Washington, D.C.<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>The Watergate Hotel<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
+<tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Viceroy Washington DC<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Willard InterContinental Washington by IHG<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Yours Truly DC, Vignette Collection by IHG<br><small>Verified Nov 11, 2026</small></td><td>Washington</td><td>United States</td><td>North America</td><td>—</td></tr>
 <tr class="hotel-row" data-region="North America" data-country="United States" data-reviewed="0"><td>Omni Amelia Island Resort<br><small>Verified Nov 11, 2026</small></td><td>Amelia Island</td><td>United States</td><td>North America</td><td>—</td></tr>
