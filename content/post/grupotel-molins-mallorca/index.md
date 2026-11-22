@@ -75,8 +75,6 @@ We'd booked **half board, so dinner was included**. Breakfast is a **big spread 
 
 ![Sangria at the pool bar](sangria.jpg)
 
-![The bar and lounge, with the sea beyond the windows](bar-lounge.jpg)
-
 ## Who Stays Here
 
 The hotel seems to be a **favorite of Irish retirees** — we saw many very friendly couples over the course of our stay. It gives the place a relaxed, sociable feel, and it is a good fit for families who want a quieter base rather than a party resort.
@@ -84,6 +82,8 @@ The hotel seems to be a **favorite of Irish retirees** — we saw many very frie
 ## The Boat Trip: Skip It
 
 The one excursion we'd skip: a boat trip out on the bay that was, **in hindsight, not worth the money**. The beach, the pool, and the hotel's own activities were the better use of the time.
+
+![The boat cruise out of Port de Pollença — pretty water, but in hindsight not worth the money](boat-trip.jpg)
 
 ## Verdict
 
