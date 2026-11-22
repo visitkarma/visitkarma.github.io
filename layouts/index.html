@@ -35,7 +35,7 @@
 {{/* ---- Regions: country tag slugs grouped for the Destinations section ---- */}}
 {{ $regions := slice
   (dict "name" "Caribbean" "countries" (slice "antigua" "barbados" "punta-cana" "turks-and-caicos" "cancun"))
-  (dict "name" "Europe" "countries" (slice "italy" "sicily" "slovakia" "finland" "austria" "france" "switzerland" "iceland" "scotland" "slovenia" "croatia" "england" "lithuania"))
+  (dict "name" "Europe" "countries" (slice "italy" "sicily" "slovakia" "finland" "austria" "france" "switzerland" "iceland" "scotland" "slovenia" "croatia" "england" "lithuania" "spain" "mallorca"))
   (dict "name" "Asia" "countries" (slice "maldives" "japan" "india" "rajasthan"))
   (dict "name" "North America" "countries" (slice "alabama" "orlando" "disney" "arizona" "new-hampshire" "new-jersey" "pennsylvania"))
   (dict "name" "South America" "countries" (slice "peru"))
@@ -336,6 +336,7 @@
 <footer class="site">
   <div class="wrap">
     <span>© {{ now.Format "2006" }} {{ .Site.Title }}</span>
+    <span>Impact-Site-Verification: 79768c9b-f784-406b-ac5a-9858b237b764</span>
     <nav>
       <a href="{{ "about/" | relURL }}">About</a>
       <a href="{{ "contact/" | relURL }}">Contact</a>
