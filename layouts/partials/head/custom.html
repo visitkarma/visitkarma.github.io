@@ -5,3 +5,152 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
 {{ partial "seo.html" . }}
+
+<style>
+/* ---- Top navigation bar (replaces the theme's left sidebar) ---- */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--card-background);
+  border-bottom: 1px solid var(--card-separator-color);
+}
+.topbar-inner {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 var(--container-padding);
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  height: 64px;
+}
+/* Match the theme container's max-width at each breakpoint so the brand
+   lines up with the page content below. */
+@media (min-width: 768px)  { .topbar-inner { max-width: 1024px; } }
+@media (min-width: 1024px) { .topbar-inner { max-width: 1280px; } }
+@media (min-width: 1280px) { .topbar-inner { max-width: 1536px; } }
+
+.topbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.topbar-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+.topbar-name {
+  font-weight: 800;
+  font-size: 1.25rem;
+  letter-spacing: -.02em;
+  color: var(--card-text-color-main);
+  white-space: nowrap;
+}
+.topbar-name span { color: var(--accent-color); }
+
+/* The theme's #main-menu base styles are written for the old vertical
+   sidebar, so they are fully reset here. The theme's own JS still drives
+   the mobile dropdown via #toggle-menu / #main-menu (.show) and the
+   dark-mode toggle via #dark-mode-toggle — no custom JS needed. */
+.topbar #main-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0;
+  padding: 8px var(--container-padding) 16px;
+  background: var(--card-background);
+  border-bottom: 1px solid var(--card-separator-color);
+  box-shadow: 0 12px 32px rgba(28,25,23,.12);
+  font-size: 1rem;
+  list-style: none;
+  overflow: visible;
+  flex-grow: 0;
+}
+.topbar #main-menu.show { display: flex; }
+.topbar #main-menu li { width: auto; padding: 0; }
+.topbar #main-menu li a {
+  display: block;
+  padding: 8px 4px;
+  color: var(--body-text-color);
+  text-decoration: none;
+}
+.topbar #main-menu li a:hover { color: var(--card-text-color-main); }
+.topbar #main-menu li.current a {
+  color: var(--accent-color);
+  font-weight: 700;
+}
+
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+.topbar-yt {
+  background: #ff0033;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: .9rem;
+  white-space: nowrap;
+}
+.topbar #dark-mode-toggle {
+  margin-top: 0;
+  background: none;
+  border: 0;
+  padding: 6px;
+}
+.topbar #dark-mode-toggle svg {
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+/* Hamburger: visible below lg, hidden once the links fit inline. */
+.topbar #toggle-menu {
+  position: static;
+  display: block;
+  flex-shrink: 0;
+  order: 3;
+}
+@media (min-width: 1024px) {
+  .topbar #toggle-menu { display: none; }
+  .topbar #main-menu {
+    position: static;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 22px;
+    padding: 0;
+    background: transparent;
+    border-bottom: 0;
+    box-shadow: none;
+    font-size: .95rem;
+    margin-left: auto;
+  }
+  .topbar #main-menu li a { padding: 0; }
+  .topbar-actions { margin-left: 0; }
+}
+
+/* Tight phones: drop the avatar and the YouTube pill, keep brand + toggle. */
+@media (max-width: 600px) {
+  .topbar-avatar, .topbar-yt { display: none; }
+  .topbar-inner { gap: 16px; }
+}
+
+/* Keep the (kept) table-of-contents rail clear of the sticky bar. */
+@media (min-width: 768px) {
+  .main-container .right-sidebar.sticky { top: 80px; }
+}
+</style>
