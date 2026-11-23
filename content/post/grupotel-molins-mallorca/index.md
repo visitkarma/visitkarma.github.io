@@ -21,6 +21,16 @@ We spent **4 nights in Mallorca at the end of our European holiday**, in the fir
 
 ![The pool, the beach, and the bay of Cala Sant Vicenç from the hotel](cover-view.jpg)
 
+## Why We Chose It
+
+Grupotel is a Mediterranean chain headquartered in Mallorca, and Molins won out over the other luxury options we looked at — not because it was the flashiest, but because it was the only one that put the whole combination together:
+
+- **Jumeirah** — not on a beach.
+- **Iberostar Es Trenc** — stunning views, but not on a beach either.
+- **Iberostar Playa de Muro** — a Caribbean-style long beach, not a Mediterranean bay beach.
+
+What we wanted was rooms with sea views, a **bay beach** (not a wide Caribbean-style beach), and a good meal deal. Of the luxury options we found, Molins was the best combination of the three.
+
 ## Getting There: PMI and the Alamo Off-Airport Pickup
 
 We had a **late-night arrival into Palma airport (PMI)**, and the first warning is that **Mallorca airport is massive — lots of walking to exit**. The bigger one is the rental car: we'd **booked the car rental through Costco**, which routes to **Alamo off-airport**, and unfortunately it was chaotic. The pickup is in an off-airport parking lot that is **not very well marked** — you have to find the lot, then ride a van to the off-airport pickup location. Allow extra time and patience for this if you arrive late at night, as we did.
